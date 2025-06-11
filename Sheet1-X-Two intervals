@@ -14,3 +14,43 @@ int main() {
 	}
 	return 0;
 }
+
+//Tracing all Cases:-
+
+//Case 1:
+//       L1------------------R1
+//       L2------------------R2
+// Max(L1,L2)=L1 or L2 && Min(R1,R2)=R1 or R2 
+//if(L1<=R1)-->true
+//print L1 or L2 && R1 or R2
+
+//Case 2: No intersection
+//   L1--------------R1
+//                       L2----------------R2
+// Max(L1,L2)=L2  && Min(R1,R2)=R1
+//if(L2<=R1)-->false
+//print -1
+
+//Case 3: R1=L2
+//   L1--------------R1
+//                   L2----------------R2
+// Max(L1,L2)=L2  && Min(R1,R2)=R1
+//if(L2<=R1)-->True
+//print L2,R1
+
+//Case 4: 
+//   L1--------------------------R1
+//        L2--------------R2
+// Max(L1,L2)=L2  && Min(R1,R2)=R2
+//if(L2<=R2)-->True
+//print L2,R2
+
+//Case 5: 
+//        L1--------------R1
+//   L2--------------------------R2
+// Max(L1,L2)=L1  && Min(R1,R2)=R1
+//if(L1<=R1)-->True
+//print L1,R1
+
+
+
