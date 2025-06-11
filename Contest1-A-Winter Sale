@@ -1,0 +1,10 @@
+#include<iostream>
+#include<iomanip>
+using namespace std;
+int main() {
+	double X, P;
+	cin >> X >> P;
+	X = 100 - X;
+	double priceBeforeDisount = (100 * P) / X;
+	cout <<fixed<< setprecision(2) << priceBeforeDisount << endl;
+}
