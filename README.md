@@ -3,7 +3,19 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 ## 📘Sheets Links:
 | Index | Problem ID |
 |-------|------------|
-| 1     | [Sheet 1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|
+|1| [Sheet 1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|
+|2| [Contest 1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|
+|3| [Sheet 2]()|
+|4| [Contest 2]()|
+|5| [Sheet 3]()|
+|6| [Contest 3]()|
+|7| [Sheet 4]()|
+|8| [Sheet 5]()|
+|9| [Sheet 6]()|
+|10| [Sheet 7]()|
+|11| [Sheet 8]()|
+|12| [Sheet 9]()|
+|13| [Sheet 10]()|
 
 ## 📘 Index
 
