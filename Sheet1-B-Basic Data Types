@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int x;
+	long long y;
+	char z;
+	float f;
+	double d;
+	cin >> x >> y >> z >> f >> d;
+	cout << x << endl << y << endl << z << endl << f << endl << d << endl;
+	return 0;
+}
