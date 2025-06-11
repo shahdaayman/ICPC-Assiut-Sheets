@@ -47,7 +47,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Y-The%20last%202%20digits) | Sheet1 |
 | 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Z-Hard%20Compare) | Sheet1 |
 | 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-A-Winter%20Sale) | Contest 1 |
-| 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution]() | Contest 1 |
+| 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-B%20-Memo%20and%20Momo) | Contest 1 |
 | 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution]() | Contest 1 |
 |30|  D |Ali Baba and Puzzles | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution]() | Contest 1 |
 |31|  E |Interval Sweep | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution]() | Contest 1 |
