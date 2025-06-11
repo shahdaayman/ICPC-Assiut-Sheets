@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main() {
+	char s;
+	long a, b;
+	cin >>a>>s>>b;
+	switch (s) {
+	case'+': cout << a + b << endl; break;
+	case'-': cout << a - b << endl;break;
+	case'/': cout << a / b << endl;break;
+	case'*': cout << a * b << endl;break;
+	}
+	return 0;
+}
