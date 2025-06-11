@@ -1,7 +1,7 @@
 # codeforces_Solutions
 This page contains my solutions to ICPC Assiut University Training Sheets in Codeforces. They are written in C++.
 ## 📘Sheets Links:
-| Index | Problem ID | Problem ID |
+| Index | Problem ID | Status|
 |-------|------------|------------|
 |1| [Sheet 1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|Done|
 |2| [Contest 1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|In Progress|
