@@ -18,9 +18,6 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 |13| [Sheet 10]()|In Progress|
 
 ## 📘 Index
-
-### Sorted by Problem ID
-
 | Index | Problem ID | Problem Name       | Question | Solution | Comment                     |
 |-------|------------|--------------------|----------|----------|-----------------------------|
 | 1     | A | Say Hello With C++     | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Solution](https://github.com/shahdaayman/codeforces_Solutions/blob/main/Sheet1-A-Say%20Hello%20With%20C%2B%2B) | Sheet1 |
@@ -49,6 +46,17 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 24|  X  | Two intervals | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-X-Two%20intervals) | Sheet1 |
 | 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Y-The%20last%202%20digits) | Sheet1 |
 | 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Z-Hard%20Compare) | Sheet1 |
+| 27|  A | Winter Sale| [Question]() | [Solution]() | Contest 1 |
+| 28|  B | Memo and Momo| [Question]() | [Solution]() | Contest 1 |
+| 29|  C |Next Alphabet | [Question]() | [Solution]() | Contest 1 |
+|30|  D |Ali Baba and Puzzles | [Question]() | [Solution]() | Contest 1 |
+|31|  E |Interval Sweep | [Question]() | [Solution]() | Contest 1 |
+| 32|  F |Adding Bits | [Question]() | [Solution]() | Contest 1 |
+| 33|  G |Katryoshka | [Question]() | [Solution]() | Contest 1 |
+| 34|  H | Data Type Guessing| [Question]() | [Solution]() | Contest 1 |
+| 35|  I |Lucky Numbers | [Question]() | [Solution]() | Contest 1 |
+
+
 
 
 
