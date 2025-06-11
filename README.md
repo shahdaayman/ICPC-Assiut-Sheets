@@ -13,7 +13,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 5    | E   | Area of a Circle | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [Solution]() | Sheet1 |
 | 6    |  F  | Digits Summation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Solution]() | Sheet1 |
 | 7    |  G  | Summation from 1 to N | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Solution]() | Sheet1 |
-| 8    |  H  | Two numbers| [Question]() | [Solution](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | Sheet1 |
+| 8    |  H  | Two numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Solution]() | Sheet1 |
 | 9    |  I  |Welcome for you with Conditions | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Solution]() | Sheet1 |
-| 10    |  J  | Multiples | [Question]() | [Solution](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | Sheet1 |
+| 10    |  J  | Multiples | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Solution]() | Sheet1 |
 
