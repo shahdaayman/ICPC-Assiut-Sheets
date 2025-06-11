@@ -1,1 +1,16 @@
-
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	long long L1, R1, L2, R2;
+	cin >> L1 >> R1 >> L2 >> R2;
+	long long maximum = max(L1, L2);
+	long long minimum = min(R1, R2);
+	if (maximum <= minimum) {
+		cout << maximum << " " << minimum << endl;
+	}
+	else {
+		cout << -1<<endl;
+	}
+	return 0;
+}
