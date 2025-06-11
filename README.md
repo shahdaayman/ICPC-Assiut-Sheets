@@ -46,7 +46,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 24|  X  | Two intervals | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-X-Two%20intervals) | Sheet1 |
 | 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Y-The%20last%202%20digits) | Sheet1 |
 | 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-Z-Hard%20Compare) | Sheet1 |
-| 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution]() | Contest 1 |
+| 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-A-Winter%20Sale) | Contest 1 |
 | 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution]() | Contest 1 |
 | 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution]() | Contest 1 |
 |30|  D |Ali Baba and Puzzles | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution]() | Contest 1 |
