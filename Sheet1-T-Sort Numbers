@@ -1,0 +1,14 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	long long a, b, c;
+	cin >> a >> b >> c;
+	long long maxi = max({ a,b,c });
+	long long mini = min({ a,b,c });
+	long long total = a + b + c;
+	cout << mini << endl << (total - (maxi + mini)) << endl << maxi << endl;
+	cout << endl;
+	cout << a << endl << b << endl << c << endl;
+	return 0;
+}
