@@ -1,1 +1,28 @@
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main() {
+	double A, B, C, D;
+	cin >> A >> B >> C >> D;
+	double AB = B * log(A);
+	double CD = D * log(C);
+	if (AB > CD) {
+		cout << "YES" << endl;
+	}
+	else {
+		cout << "NO" << endl;
+	}
+	return 0;
+}
+
+//Notes:
+// Why did we use log?
+// The problem may involve very large numbers like A = 10^7 and B = 10^12,
+// so A^B could be as large as 10^(7 * 10^12), which is far beyond the range of any data type.
+//
+// Since we cannot compute A^B directly, we use logarithms to compare:
+// A^B > C^D <=> B * log(A) > D * log(C)
+//
+// This works because logarithms turn huge exponents into manageable values.
+// The log function returns a double, so we store the results in variables of type double.
 
