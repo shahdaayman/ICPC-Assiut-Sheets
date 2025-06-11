@@ -1,0 +1,54 @@
+#include<iostream>
+using namespace std;
+int main() {
+	long long A, B, C, D;
+	cin >> A >> B >> C >> D;
+	long long AA = A % 100 , BB=B%100,CC=C%100,DD=D%100;
+	long long multiply = AA * BB * CC * DD;
+	multiply %= 100;
+	if (multiply < 10) {  //0-->00  //8-->08
+		cout <<0<< multiply << endl;
+	}
+	else {
+		cout << multiply << endl;
+	}
+	return 0;
+}
+
+/// Note:
+// The input numbers A, B, C, and D can be as large as 10^9.
+// If we multiply all four directly (A * B * C * D), it can cause overflow,
+// even with long long integers, because the result might exceed 10^18.
+// However, since we only care about the **last 2 digits** of the result,
+// we can safely reduce each number using modulo 100: A % 100, B % 100, etc.
+// This keeps the values small and manageable while preserving the last two digits.
+// Example:
+// Full multiplication:     456 * 189 * 716 * 144 = 8,885,915,136 → last two digits: 36
+// Reduced (mod 100):        56 *  89 *  16 *  44 =   3,508,736     → last two digits: 36
+
+
+//========================================================================================
+//Another solution using iomanip library:
+#include <iostream>
+#include <iomanip>
+using namespace std;
+int main() {
+	long long A, B, C, D;
+	cin >> A >> B >> C >> D;
+	long long AA = A % 100, BB = B % 100, CC = C % 100, DD = D % 100;
+	long long multiply = AA * BB * CC * DD;
+	multiply %= 100;
+	cout << setw(2) << setfill('0') << multiply << endl;
+	return 0;
+}
+//setw-->set width
+//setw(2) --> make sure that variable multiply always shows 2 digits even if the value is less than 10
+// if we use only setw without setfill, it will print a space before the number 
+//when you use setfill It tells cout what character to use to fill empty space
+//In this case, it fills with '0' instead of the default space ' '.
+//so, if variable multiply = 7, it will print 07
+
+
+
+
+
