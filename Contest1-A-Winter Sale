@@ -8,3 +8,24 @@ int main() {
 	double priceBeforeDisount = (100 * P) / X;
 	cout <<fixed<< setprecision(2) << priceBeforeDisount << endl;
 }
+
+
+//Notes:
+/*
+Test Case Understanding (Reverse Thinking):
+Suppose:
+P = 80  → price after discount
+A = 100 → actual/original price
+
+We want to find X → the discount percentage
+
+Cross Multiplication:
+If:
+     % paid (x)     :     discounted price (P)
+          x         :            80
+        100         :           100
+
+Then:
+    x = (80 * 100) / 100 = 80
+    Discount = 100 - 80 = 20%   //we already know from the test case that X=20%, but this method made it easier.
+*/
