@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main() {
+	double n, k, a;
+	cin >> n >> k >> a;
+	double answer = (n * k) / a;
+	long long long_answer = answer;
+	int int_anwer = answer;
+	if (long_answer != answer) {
+		cout << "double" << endl;
+	}
+	else if (long_answer == int_anwer) {
+		cout << "int" << endl;
+	}
+	else {
+		cout << "long long" << endl;
+	}
+	return 0;
+}
