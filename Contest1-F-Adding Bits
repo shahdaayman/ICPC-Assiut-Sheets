@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int A, B;
+	cin >> A >> B;
+	cout << (A ^ B); //XOR operator
+	return 0;
+}
+
+//Notes:-
+
+//XOR:
+//		 A     B     XOR
+//       0     0      0
+//       1     1      0
+//       0     1      1
+//       1     0      1
+ 
