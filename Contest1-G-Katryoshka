@@ -1,0 +1,29 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	long long n, m, k;
+	cin >> n >> m >> k;
+
+	//One eye, one mouth, and one body
+	long long minimum = min({ n, m, k });
+	n -= minimum;
+	m -= minimum;
+	k -= minimum;
+
+	n = n / 2; //Count how many pairs of eyes are available
+
+	//Two eyes, one mouth, and one body.
+	long long minimum1 = min({n ,m,k });
+	n -= minimum1;
+	k -= minimum1;
+
+	//Two eyes and one body.
+	long long minimum2 = min(n,k);
+	cout << minimum + minimum1 + minimum2 << endl;
+	return 0;
+}
+
+//Notes:
+//We started with condition (One eye, one mouth, and one body) because he wanted
+//the largest number of Katryoshkas he can make.
