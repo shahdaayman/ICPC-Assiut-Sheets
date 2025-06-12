@@ -54,7 +54,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 32|  F |Adding Bits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Solution]() | Contest 1 |
 | 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution]() | Contest 1 |
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution]() | Contest 1 |
-| 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution]() | Contest 1 |
+| 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-I-Lucky%20Numbers) | Contest 1 |
 
 
 
