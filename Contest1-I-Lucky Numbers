@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int N;
+	cin >> N;  //56
+	int N2 = N % 10; //N2=6
+	N /= 10; //N=5
+	if (N == 0 || N2 == 0) {
+		cout << "YES" << endl;
+	}
+	else if(N % N2 == 0 || N2 % N == 0) {
+		cout << "YES" << endl;
+	}
+	else {
+		cout << "NO" << endl;
+	}
+	return 0;
+}
