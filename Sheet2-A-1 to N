@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+
+//this function only makes the code faster you can skip :)
+void fast() {
+	cin.tie(0);
+	cout.sync_with_stdio(0);
+}
+
+int main() {
+	fast(); //skip this line if you're not gonna use the function above
+	int N;
+	cin >> N;
+	for (int i = 1;i <= N;i++){
+		cout << i << endl;
+	}
+	return 0;
+}
