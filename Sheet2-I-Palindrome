@@ -1,0 +1,44 @@
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+int main() {
+    string str;
+    cin >> str;
+    string str2 = str;
+    reverse(str.begin(), str.end());
+    while (!str.empty() && str[0] == '0') {
+        str.erase(0, 1);
+    }
+    cout << str << endl;
+
+    if (str == str2) {
+        cout << "YES" << endl;
+    }
+    else {
+        cout << "NO" << endl;
+    }
+    return 0;
+}
+//===============================================================
+//Another solution:
+#include<iostream>
+using namespace std;
+int main() {
+    int num;
+    cin >> num;
+    int temp = num;
+    int num2=0;  
+    while (temp != 0) {      
+         num2 = (num2*10)+(temp % 10); 
+         temp /= 10; 
+    }
+    cout << num2 << endl;
+    if (num2 == num) {
+        cout << "YES" << endl;
+    }
+    else {
+        cout << "NO" << endl;
+    }
+    return 0;
+}
