@@ -50,7 +50,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-B%20-Memo%20and%20Momo) | Contest 1 |
 | 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-C%20-%20Next%20Alphabet) | Contest 1 |
 |30|  D |Ali Baba and Puzzles | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-D-%20Ali%20Baba%20and%20Puzzles) | Contest 1 |
-|31|  E |Interval Sweep | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution]() | Contest 1 |
+|31|  E |Interval Sweep | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-E-Interval%20Sweep) | Contest 1 |
 | 32|  F |Adding Bits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-F-Adding%20Bits) | Contest 1 |
 | 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-G-Katryoshka) | Contest 1 |
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-H-Data%20Type%20Guessing) | Contest 1 |
