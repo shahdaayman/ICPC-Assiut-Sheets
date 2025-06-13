@@ -1,0 +1,27 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int N,num,evenCnt = 0,oddCnt = 0, positiveCnt = 0,negativeCnt = 0;
+	cin >> N;
+	for (int i = 1;i <= N;i++) {
+		cin >> num;
+		if (num % 2 == 0) { 
+			++evenCnt;
+		}
+		else if(num%2 !=0){ 
+			++oddCnt;
+		}
+		
+		if (num > 0) { 
+			++positiveCnt;
+		}
+		else if (num < 0) { 
+			++negativeCnt;
+		}
+	}
+	cout << "Even: " << evenCnt << endl;
+	cout << "Odd: " << oddCnt << endl;
+	cout << "Positive: " << positiveCnt << endl;
+	cout << "Negative: " << negativeCnt << endl;
+	return 0;
+}
