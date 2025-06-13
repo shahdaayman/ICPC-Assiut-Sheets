@@ -1,0 +1,31 @@
+#include<iostream>
+using namespace std;
+int main() {
+    long long A, B;
+    cin >> A >> B;
+    long long temp;
+    bool flag = true;
+    bool flag2 = false;
+    for (int i = A;i <= B;i++) {
+        long long num = i;
+        flag = true;
+        while (num != 0) {   
+            temp = num % 10;
+            if (temp == 4 || temp == 7) {
+                num /= 10;
+            }
+            else {
+                flag = false;
+                break;
+            }
+        }
+        if (flag) {
+            flag2 = true;
+            cout << i << " ";
+        }
+    }
+    if (flag2 == false) {
+        cout << -1 << endl;
+    }
+    return 0;
+}
