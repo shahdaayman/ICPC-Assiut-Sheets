@@ -62,7 +62,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 |40|E|Max| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-E-Max) |Sheet2|
 |41|F|Multiplication table| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-F-Multiplication%20table) |Sheet2|
 |42|G|Factorial| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-G-Factorial) |Sheet2|
-|43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution]() |Sheet2|
+|43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-H-One%20Prime) |Sheet2|
 |44|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Solution]() |Sheet2|
 |45|J|Primes from 1 to n| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Solution]() |Sheet2|
 |46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution]() |Sheet2|
