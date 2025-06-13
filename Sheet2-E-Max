@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int N,num;
+	int maximum = INT16_MIN; 
+	cin >> N;
+	for (int i = 1;i <= N;i++) {
+		cin >> num;
+		if (num > maximum) {
+			maximum = num;
+		}
+	}
+	cout << maximum << endl;
+	return 0;
+}
