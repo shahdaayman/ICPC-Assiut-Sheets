@@ -56,8 +56,8 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-H-Data%20Type%20Guessing) | Contest 1 |
 | 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-I-Lucky%20Numbers) | Contest 1 |
 |36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-A-1%20to%20N) |Sheet2|
-|37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution]() |Sheet2|
-|38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution]() |Sheet2|
+|37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-B-Even%20Numbers) |Sheet2|
+|38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-C-%20Even%2C%20Odd%2C%20Positive%20and%20Negative) |Sheet2|
 |39|D|Fixed Password| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) | [Solution]() |Sheet2|
 |40|E|Max| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Solution]() |Sheet2|
 |41|F|Multiplication table| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Solution]() |Sheet2|
