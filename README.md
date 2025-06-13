@@ -65,7 +65,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 |43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-H-One%20Prime) |Sheet2|
 |44|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-I-Palindrome) |Sheet2|
 |45|J|Primes from 1 to n| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-J-Primes%20from%201%20to%20n) |Sheet2|
-|46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution]() |Sheet2|
+|46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-K-Divisors) |Sheet2|
 |47|L|GCD| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [Solution]() |Sheet2|
 |48|M|Lucky Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Solution]() |Sheet2|
 |49|N|Numbers Histogram| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Solution]() |Sheet2|
