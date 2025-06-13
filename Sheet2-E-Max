@@ -13,3 +13,19 @@ int main() {
 	cout << maximum << endl;
 	return 0;
 }
+//======================================================
+//Another solution:
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	int N,num;
+	int maximum = INT16_MIN; 
+	cin >> N;
+	for (int i = 1;i <= N;i++) {
+		cin >> num;
+		maximum = max(num, maximum);
+	}
+	cout << maximum << endl;
+	return 0;
+}
