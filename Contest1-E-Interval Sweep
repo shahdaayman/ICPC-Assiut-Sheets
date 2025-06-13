@@ -1,16 +1,54 @@
 #include<iostream>
+#include<cmath>
 using namespace std;
 
-//this function only makes the code faster you can skip it :)
+//this function only makes the code faster you can skip :)
 void fast() {
 	cin.tie(0);
 	cout.sync_with_stdio(0);
 }
 
 int main() {
-   fast(); //skip this line too if you're not gonna use the function above
-
-
-
+	fast(); //skip this line if you're not gonna use the function above
+	int a, b;
+	cin >> a >> b;
+	if ((a == 0 && b == 0) || abs(a - b) >= 2) {
+		cout << "NO" << endl;
+	}
+	else {
+		cout << "YES" << endl;
+	}
 }
+
+// Explanation:
+// We need to check if we can create an interval of consecutive integers 
+// that contains exactly 'a' odd numbers and 'b' even numbers.
+
+// Example:
+// a = 2, b = 3
+// Interval: 2,3,4,5,6 → 2 odd numbers (3,5), 3 even numbers (2,4,6) → Valid
+// Other valid interval: 12,13,14,15,16 → same counts
+
+// General Observations:
+
+// 1. Starting and ending with EVEN numbers → More evens than odds by 1
+//    Example: 2,3,4,5,6,7,8 → 4 even, 3 odd → |even - odd| = 1
+
+// 2. Starting and ending with ODD numbers → More odds than evens by 1
+//    Example: 1,2,3,4,5 → 3 odd, 2 even → |odd - even| = 1
+
+// 3. Starting with ODD, ending with EVEN → Equal odds and evens
+//    Example: 1,2,3,4 → 2 odd, 2 even → |odd - even| = 0
+
+// 4. Starting with EVEN, ending with ODD → Equal odds and evens
+//    Example: 2,3,4,5 → 2 odd, 2 even → |odd - even| = 0
+
+// Special Case:
+// If a == 0 and b == 0 → interval is empty → Not allowed
+
+// Conclusion:
+// A valid interval exists if the absolute difference between a and b is ≤ 1,
+// and the interval is not empty.
+
+
 
