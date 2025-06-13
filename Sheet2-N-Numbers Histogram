@@ -1,0 +1,58 @@
+#include<iostream>
+using namespace std;
+int main() {
+    char c;
+    int temp;
+    int n;
+
+    cin >> c >> temp;
+    for (int i = 1;i <= temp;i++) {
+        cin >> n;
+        for (int i = 1;i <= n;i++) {
+            cout << c;
+        }
+        cout << endl;
+    }
+    return 0;
+}
+//=================================================================
+//Another Solution:
+#include<iostream>
+using namespace std;
+int main() {
+    char c;
+    int temp;
+    int n;
+
+    cin >> c >> temp;
+    for (int i = 1;i <= temp;i++) {
+        cin >> n;
+        if (c == '+') {
+            for (int i = 1;i <= n;i++) {
+                cout << '+';
+            }
+            cout << endl;
+        }
+        if (c == '-') {
+            for (int i = 1;i <= n;i++) {
+                cout << '-';
+            }
+            cout << endl;
+        }
+
+        if (c == '*') {
+            for (int i = 1;i <= n;i++) {
+                cout << '*';
+            }
+            cout << endl;
+        }
+
+        if (c == '/') {
+            for (int i = 1;i <= n;i++) {
+                cout << '/';
+            }
+            cout << endl;
+        }
+    }
+    return 0;
+}
