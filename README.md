@@ -4,8 +4,8 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | Index | Problem ID | Status|
 |-------|------------|------------|
 |1| [Sheet 1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|Done|
-|2| [Contest 1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|In Progress|
-|3| [Sheet 2]()|In Progress|
+|2| [Contest 1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|Done|
+|3| [Sheet 2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|In Progress|
 |4| [Contest 2]()|In Progress|
 |5| [Sheet 3]()|In Progress|
 |6| [Contest 3]()|In Progress|
@@ -55,7 +55,58 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-G-Katryoshka) | Contest 1 |
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-H-Data%20Type%20Guessing) | Contest 1 |
 | 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-I-Lucky%20Numbers) | Contest 1 |
-
+|36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-A-1%20to%20N) |Sheet2|
+|37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution]() |Sheet2|
+|38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution]() |Sheet2|
+|39|D|Fixed Password| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) | [Solution]() |Sheet2|
+|40|E|Max| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Solution]() |Sheet2|
+|41|F|Multiplication table| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Solution]() |Sheet2|
+|42|G|Factorial| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Solution]() |Sheet2|
+|43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution]() |Sheet2|
+|44|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Solution]() |Sheet2|
+|45|J|Primes from 1 to n| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Solution]() |Sheet2|
+|46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution]() |Sheet2|
+|47|L|GCD| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [Solution]() |Sheet2|
+|48|M|Lucky Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Solution]() |Sheet2|
+|49|N|Numbers Histogram| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Solution]() |Sheet2|
+|50|O|Pyramid| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [Solution]() |Sheet2|
+|51|P|Shape1| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Solution]() |Sheet2|
+|52|Q|Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Solution]() |Sheet2|
+|53|R|Sequence of Numbers and Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Solution]() |Sheet2|
+|54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution]() |Sheet2|
+|55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution]() |Sheet2|
+|56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution]() |Sheet2|
+|57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution]() |Sheet2|
+|58|W|Shape3| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [Solution]() |Sheet2|
+|59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution]() |Sheet2|
+|60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution]() |Sheet2|
+|61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution]() |Sheet2|
+|62|A|| [Question]() | [Solution]() ||
+|63|B|| [Question]() | [Solution]() ||
+|64|C|| [Question]() | [Solution]() ||
+|65|D|| [Question]() | [Solution]() ||
+|66|E|| [Question]() | [Solution]() ||
+|67|F|| [Question]() | [Solution]() ||
+|68|G|| [Question]() | [Solution]() ||
+|69|H|| [Question]() | [Solution]() ||
+|70|I|| [Question]() | [Solution]() ||
+|71|J|| [Question]() | [Solution]() ||
+|72|K|| [Question]() | [Solution]() ||
+|73|L|| [Question]() | [Solution]() ||
+|74|M|| [Question]() | [Solution]() ||
+|75|N|| [Question]() | [Solution]() ||
+|76|O|| [Question]() | [Solution]() ||
+|77|P|| [Question]() | [Solution]() ||
+|78|Q|| [Question]() | [Solution]() ||
+|79|R|| [Question]() | [Solution]() ||
+|80|S|| [Question]() | [Solution]() ||
+|81|T|| [Question]() | [Solution]() ||
+|82|U|| [Question]() | [Solution]() ||
+|83|V|| [Question]() | [Solution]() ||
+|84|W|| [Question]() | [Solution]() ||
+|85|X|| [Question]() | [Solution]() ||
+|86|Y|| [Question]() | [Solution]() ||
+|87|Z|| [Question]() | [Solution]() ||
 
 
 
