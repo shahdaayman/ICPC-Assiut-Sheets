@@ -1,6 +1,10 @@
 # ICPC-Assiut-Sheets-Solutions
 This repository contains my solutions to the ICPC Assiut University training sheets on Codeforces. All solutions are written in C++.
+_Last updated: June 14, 2025_
 ## 📘Sheets Links:
+### 🗂️ Status Legend:
+- ✅ = Completed
+- 🛠️ = In Progress
 | Index | Sheet Links on Codeforces| Solution Folder Link | Status|
 |-------|------------|------------|------------|
 |1| [Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|[Sheet #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%231)|✅|
