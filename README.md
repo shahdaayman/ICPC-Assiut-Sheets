@@ -24,7 +24,7 @@ _Last updated: June 14, 2025_
 
 
 ---
-### 🗂️ Status Legend:
+### 🗂️ Status:
 - ✅ = Completed  
 - 🛠️ = In Progress  
 ---
