@@ -18,7 +18,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 |13| [Sheet #10]()|In Progress|
 
 ## 📘 Index
-| Index | Problem ID | Problem Name       | Question | Solution | Sheet No.                   |
+| Index | Problem Letter | Problem Name       | Question | Solution | Sheet No.                   |
 |-------|------------|--------------------|----------|----------|-----------------------------|
 | 1     | A | Say Hello With C++     | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Solution](https://github.com/shahdaayman/codeforces_Solutions/blob/main/Sheet1-A-Say%20Hello%20With%20C%2B%2B) | Sheet #1 |
 | 2     | B | Basic Data Types  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet1-B-Basic%20Data%20Types) | Sheet #1 |
