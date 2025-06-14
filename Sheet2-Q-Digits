@@ -1,0 +1,20 @@
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+int main() {
+    string str;
+    int temp;
+    cin >> temp;
+
+    for (int i = 1;i <= temp;i++) { 
+        cin >> str;   
+        reverse(str.begin(), str.end());
+        for (int j = 0;j < str.size();j++) {
+            cout << str[j] << " ";
+        }
+        cout << endl;
+    }
+    return 0;
+}
+
