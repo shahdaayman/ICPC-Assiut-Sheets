@@ -4,10 +4,6 @@ This repository contains my solutions to the ICPC Assiut University training she
 _Last updated: June 14, 2025_
 ## 📘Sheets Links:
 
-### 🗂️ Status Legend:
-- ✅ = Completed
-- 🛠️ = In Progress
-  
 | Index | Sheet Links on Codeforces| Solution Folder Link | Status|
 |-------|------------|------------|------------|
 |1| [Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|[Sheet #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%231)|✅|
@@ -23,6 +19,16 @@ _Last updated: June 14, 2025_
 |11| [Sheet #8](https://codeforces.com/group/MWSDmqGsZm/contest/223206)|[Sheet #8](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%238)|🛠️|
 |12| [Sheet #9](https://codeforces.com/group/MWSDmqGsZm/contest/223207)|[Sheet #9](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%239)|🛠️|
 |13| [Sheet #10](https://codeforces.com/group/MWSDmqGsZm/contest/223340)|[Sheet #10](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%2310)|🛠️|
+
+
+
+---
+
+### 🗂️ Status Legend:
+- ✅ = Completed  
+- 🛠️ = In Progress  
+
+---
 
 ## 📘 Index
 | Index | Problem Letter | Problem Name       | Question | Solution | Sheet No.                   |
