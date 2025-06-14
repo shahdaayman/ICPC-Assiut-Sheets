@@ -73,7 +73,7 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 |51|P|Shape1| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-P-Shape1) |Sheet2|
 |52|Q|Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-Q-Digits) |Sheet2|
 |53|R|Sequence of Numbers and Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-R-Sequence%20of%20Numbers%20and%20Sum) |Sheet2|
-|54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution]() |Sheet2|
+|54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-S-Sum%20of%20Consecutive%20Odd%20Numbers) |Sheet2|
 |55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution]() |Sheet2|
 |56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution]() |Sheet2|
 |57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution]() |Sheet2|
