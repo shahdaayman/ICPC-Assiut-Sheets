@@ -55,32 +55,32 @@ This page contains my solutions to ICPC Assiut University Training Sheets in Cod
 | 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-G-Katryoshka) | Contest #1 |
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-H-Data%20Type%20Guessing) | Contest #1 |
 | 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest1-I-Lucky%20Numbers) | Contest #1 |
-|36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-A-1%20to%20N) |Sheet2|
-|37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-B-Even%20Numbers) |Sheet2|
-|38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-C-%20Even%2C%20Odd%2C%20Positive%20and%20Negative) |Sheet2|
-|39|D|Fixed Password| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-D-%20Fixed%20Password) |Sheet2|
-|40|E|Max| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-E-Max) |Sheet2|
-|41|F|Multiplication table| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-F-Multiplication%20table) |Sheet2|
-|42|G|Factorial| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-G-Factorial) |Sheet2|
-|43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-H-One%20Prime) |Sheet2|
-|44|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-I-Palindrome) |Sheet2|
-|45|J|Primes from 1 to n| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-J-Primes%20from%201%20to%20n) |Sheet2|
-|46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-K-Divisors) |Sheet2|
-|47|L|GCD| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-L-GCD) |Sheet2|
-|48|M|Lucky Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-M-Lucky%20Numbers) |Sheet2|
-|49|N|Numbers Histogram| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-N-Numbers%20Histogram) |Sheet2|
-|50|O|Pyramid| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-O-Pyramid) |Sheet2|
-|51|P|Shape1| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-P-Shape1) |Sheet2|
-|52|Q|Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-Q-Digits) |Sheet2|
-|53|R|Sequence of Numbers and Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-R-Sequence%20of%20Numbers%20and%20Sum) |Sheet2|
-|54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-S-Sum%20of%20Consecutive%20Odd%20Numbers) |Sheet2|
-|55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution]() |Sheet2|
-|56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution]() |Sheet2|
-|57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution]() |Sheet2|
-|58|W|Shape3| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [Solution]() |Sheet2|
-|59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution]() |Sheet2|
-|60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution]() |Sheet2|
-|61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution]() |Sheet2|
+|36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-A-1%20to%20N) |Sheet #2|
+|37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-B-Even%20Numbers) |Sheet #2|
+|38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-C-%20Even%2C%20Odd%2C%20Positive%20and%20Negative) |Sheet #2|
+|39|D|Fixed Password| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-D-%20Fixed%20Password) |Sheet #2|
+|40|E|Max| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-E-Max) |Sheet #2|
+|41|F|Multiplication table| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-F-Multiplication%20table) |Sheet #2|
+|42|G|Factorial| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-G-Factorial) |Sheet #2|
+|43|H|One Prime| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-H-One%20Prime) |Sheet #2|
+|44|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-I-Palindrome) |Sheet #2|
+|45|J|Primes from 1 to n| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-J-Primes%20from%201%20to%20n) |Sheet #2|
+|46|K|Divisors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-K-Divisors) |Sheet #2|
+|47|L|GCD| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-L-GCD) |Sheet #2|
+|48|M|Lucky Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-M-Lucky%20Numbers) |Sheet #2|
+|49|N|Numbers Histogram| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/N) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-N-Numbers%20Histogram) |Sheet #2|
+|50|O|Pyramid| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-O-Pyramid) |Sheet #2|
+|51|P|Shape1| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-P-Shape1) |Sheet #2|
+|52|Q|Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-Q-Digits) |Sheet #2|
+|53|R|Sequence of Numbers and Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-R-Sequence%20of%20Numbers%20and%20Sum) |Sheet #2|
+|54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet2-S-Sum%20of%20Consecutive%20Odd%20Numbers) |Sheet #2|
+|55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution]() |Sheet #2|
+|56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution]() |Sheet #2|
+|57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution]() |Sheet #2|
+|58|W|Shape3| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [Solution]() |Sheet #2|
+|59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution]() |Sheet #2|
+|60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution]() |Sheet #2|
+|61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution]() |Sheet #2|
 |62|A|| [Question]() | [Solution]() ||
 |63|B|| [Question]() | [Solution]() ||
 |64|C|| [Question]() | [Solution]() ||
