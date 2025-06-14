@@ -1,4 +1,4 @@
-# ICPC-Assiut-Sheets_Solutions
+# ICPC-Assiut-Sheets-Solutions
 This page contains my solutions to ICPC Assiut University Training Sheets in Codeforces. They are written in C++.
 ## 📘Sheets Links in Codeforces:
 | Index | Links | Status|
