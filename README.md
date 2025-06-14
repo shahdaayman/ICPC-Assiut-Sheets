@@ -1,7 +1,7 @@
 # ICPC-Assiut-Sheets-Solutions
-_Last updated: June 14, 2025_
-
 This repository contains my solutions to the ICPC Assiut University training sheets on [Codeforces](https://codeforces.com/). All solutions are written in C++.
+
+_Last updated: June 14, 2025_
 
 ## 📘Sheets Links:
 
