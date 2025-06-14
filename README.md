@@ -1,21 +1,21 @@
 # ICPC-Assiut-Sheets-Solutions
-This page contains my solutions to ICPC Assiut University Training Sheets in Codeforces. They are written in C++.
+This repository contains my solutions to the ICPC Assiut University training sheets on Codeforces. All solutions are written in C++.
 ## 📘Sheets Links:
-| Index | Sheets links in Codeforces| Answer folder link| Status|
+| Index | Sheet Links on Codeforces| Solution Folder Link | Status|
 |-------|------------|------------|------------|
-|1| [Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|[Sheet #1]()|Done|
-|2| [Contest #1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|[Contest #1]()|Done|
-|3| [Sheet #2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|[Sheet #2]()|In Progress|
-|4| [Contest #2]()|[Contest #2]()|In Progress|
-|5| [Sheet #3]()|[Sheet #3]()|In Progress|
-|6| [Contest #3]()|[Contest #3]()|In Progress|
-|7| [Sheet #4]()|[Sheet #4]()|In Progress|
-|8| [Sheet #5]()|[Sheet #5]()|In Progress|
-|9| [Sheet #6]()|[Sheet #6]()|In Progress|
-|10| [Sheet #7]()|[Sheet #7]()|In Progress|
-|11| [Sheet #8]()|[Sheet #8]()|In Progress|
-|12| [Sheet #9]()|[Sheet #9]()|In Progress|
-|13| [Sheet #10]()|[Sheet #10]()|In Progress|
+|1| [Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|[Sheet #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%231)|✅|
+|2| [Contest #1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|[Contest #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%231)|✅|
+|3| [Sheet #2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|[Sheet #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%232)| 🛠️|
+|4| [Contest #2](https://codeforces.com/group/MWSDmqGsZm/contest/326907)|[Contest #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%232)|🛠️|
+|5| [Sheet #3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|[Sheet #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%233)|🛠️|
+|6| [Contest #3](https://codeforces.com/group/MWSDmqGsZm/contest/329103)|[Contest #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%233)| 🛠️|
+|7| [Sheet #4](https://codeforces.com/group/MWSDmqGsZm/contest/219856)|[Sheet #4](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%234)|🛠️|
+|8| [Sheet #5](https://codeforces.com/group/MWSDmqGsZm/contest/223205)|[Sheet #5](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%235)|🛠️|
+|9| [Sheet #6](https://codeforces.com/group/MWSDmqGsZm/contest/223338)|[Sheet #6](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%236)|🛠️|
+|10| [Sheet #7](https://codeforces.com/group/MWSDmqGsZm/contest/223339)|[Sheet #7](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%237)|🛠️|
+|11| [Sheet #8](https://codeforces.com/group/MWSDmqGsZm/contest/223206)|[Sheet #8](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%238)|🛠️|
+|12| [Sheet #9](https://codeforces.com/group/MWSDmqGsZm/contest/223207)|[Sheet #9](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%239)|🛠️|
+|13| [Sheet #10](https://codeforces.com/group/MWSDmqGsZm/contest/223340)|[Sheet #10](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%2310)|🛠️|
 
 ## 📘 Index
 | Index | Problem Letter | Problem Name       | Question | Solution | Sheet No.                   |
