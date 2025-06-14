@@ -22,11 +22,10 @@ This repository contains my solutions to the ICPC Assiut University training she
 
 
 ---
-
+_Last updated: June 14, 2025_
 ### 🗂️ Status Legend:
 - ✅ = Completed  
 - 🛠️ = In Progress  
-_Last updated: June 14, 2025_
 ---
 
 ## 📘 Index
