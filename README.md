@@ -58,15 +58,15 @@ _Last updated: June, 2025_
 | 24|  X  | Two intervals | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/X%20-%20Two%20intervals) | Sheet #1 |
 | 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/Y%20-%20The%20last%202%20digits) | Sheet #1 |
 | 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/Z%20-%20Hard%20Compare) | Sheet #1 |
-| 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution]() | Contest #1 |
-| 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution]() | Contest #1 |
-| 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution]() | Contest #1 |
-|30|  D |Ali Baba and Puzzles | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution]() | Contest #1 |
-|31|  E |Interval Sweep | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution]() | Contest #1 |
-| 32|  F |Adding Bits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Solution]() | Contest #1 |
-| 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution]() | Contest #1 |
-| 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution]() | Contest #1 |
-| 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution]() | Contest #1 |
+| 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/A%20-%20Winter%20Sale) | Contest #1 |
+| 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/B%20-%20Memo%20and%20Momo) | Contest #1 |
+| 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/C%20-%20Next%20Alphabet) | Contest #1 |
+|30|  D |Ali Baba and Puzzles | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/D%20-%20Ali%20Baba%20and%20Puzzles) | Contest #1 |
+|31|  E |Interval Sweep | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/E%20-%20Interval%20Sweep) | Contest #1 |
+| 32|  F |Adding Bits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/F%20-%20Adding%20Bits) | Contest #1 |
+| 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/G%20-%20Katryoshka) | Contest #1 |
+| 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/H%20-%20Data%20Type%20Guessing) | Contest #1 |
+| 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/I%20-%20Lucky%20Numbers) | Contest #1 |
 |36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution]() |Sheet #2|
 |37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution]() |Sheet #2|
 |38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution]() |Sheet #2|
