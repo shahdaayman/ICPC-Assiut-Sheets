@@ -93,35 +93,219 @@ _Last updated: June, 2025_
 |59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution]() |Sheet #2|
 |60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution]() |Sheet #2|
 |61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution]() |Sheet #2|
-|62|A|| [Question]() | [Solution]() ||
-|63|B|| [Question]() | [Solution]() ||
-|64|C|| [Question]() | [Solution]() ||
-|65|D|| [Question]() | [Solution]() ||
-|66|E|| [Question]() | [Solution]() ||
-|67|F|| [Question]() | [Solution]() ||
-|68|G|| [Question]() | [Solution]() ||
-|69|H|| [Question]() | [Solution]() ||
-|70|I|| [Question]() | [Solution]() ||
-|71|J|| [Question]() | [Solution]() ||
-|72|K|| [Question]() | [Solution]() ||
-|73|L|| [Question]() | [Solution]() ||
-|74|M|| [Question]() | [Solution]() ||
-|75|N|| [Question]() | [Solution]() ||
-|76|O|| [Question]() | [Solution]() ||
-|77|P|| [Question]() | [Solution]() ||
-|78|Q|| [Question]() | [Solution]() ||
-|79|R|| [Question]() | [Solution]() ||
-|80|S|| [Question]() | [Solution]() ||
-|81|T|| [Question]() | [Solution]() ||
-|82|U|| [Question]() | [Solution]() ||
-|83|V|| [Question]() | [Solution]() ||
-|84|W|| [Question]() | [Solution]() ||
-|85|X|| [Question]() | [Solution]() ||
-|86|Y|| [Question]() | [Solution]() ||
-|87|Z|| [Question]() | [Solution]() ||
-
-
-
+|62|A|Timon and Pumbaa| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/A) | [Solution]() |Contest #2|
+|63|B|Drawing `X'| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/B) | [Solution]() |Contest #2|
+|64|C|Finding Minimums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/C) | [Solution]() |Contest #2|
+|65|D|Range Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D) | [Solution]() |Contest #2|
+|66|E|Hady Rides the Train| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/E) | [Solution]() |Contest #2|
+|67|F|Break Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/F) | [Solution]() |Contest #2|
+|68|G|Construct the Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/G) | [Solution]() |Contest #2|
+|69|H|Simple Mod| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/H) | [Solution]() |Contest #2|
+|70|A|| [Question]() | [Solution]() |Sheet #3|
+|71|B|| [Question]() | [Solution]() |Sheet #3|
+|72|C|| [Question]() | [Solution]() |Sheet #3|
+|73|D|| [Question]() | [Solution]() |Sheet #3|
+|74|E|| [Question]() | [Solution]() |Sheet #3|
+|75|F|| [Question]() | [Solution]() |Sheet #3|
+|76|G|| [Question]() | [Solution]() |Sheet #3|
+|76|G|| [Question]() | [Solution]() |Sheet #3|
+|77|H|| [Question]() | [Solution]() |Sheet #3|
+|78|I|| [Question]() | [Solution]() |Sheet #3|
+|79|J|| [Question]() | [Solution]() |Sheet #3|
+|80|K|| [Question]() | [Solution]() |Sheet #3|
+|81|L|| [Question]() | [Solution]() |Sheet #3|
+|82|M|| [Question]() | [Solution]() |Sheet #3|
+|83|N|| [Question]() | [Solution]() |Sheet #3|
+|84|O|| [Question]() | [Solution]() |Sheet #3|
+|85|P|| [Question]() | [Solution]() |Sheet #3|
+|86|Q|| [Question]() | [Solution]() |Sheet #3|
+|87|R|| [Question]() | [Solution]() |Sheet #3|
+|88|S|| [Question]() | [Solution]() |Sheet #3|
+|89|T|| [Question]() | [Solution]() |Sheet #3|
+|90|U|| [Question]() | [Solution]() |Sheet #3|
+|91|V|| [Question]() | [Solution]() |Sheet #3|
+|92|W|| [Question]() | [Solution]() |Sheet #3|
+|93|X|| [Question]() | [Solution]() |Sheet #3|
+|94|Y|| [Question]() | [Solution]() |Sheet #3|
+|95|Z|| [Question]() | [Solution]() |Sheet #3|
+|96|A|| [Question]() | [Solution]() |Contest #3|
+|97|B|| [Question]() | [Solution]() |Contest #3|
+|98|C|| [Question]() | [Solution]() |Contest #3|
+|99|D|| [Question]() | [Solution]() |Contest #3|
+|100|E|| [Question]() | [Solution]() |Contest #3|
+|101|F|| [Question]() | [Solution]() |Contest #3|
+|102|G|| [Question]() | [Solution]() |Contest #3|
+|103|A|| [Question]() | [Solution]() |Sheet #4|
+|104|B|| [Question]() | [Solution]() |Sheet #4|
+|105|C|| [Question]() | [Solution]() |Sheet #4|
+|106|D|| [Question]() | [Solution]() |Sheet #4|
+|107|E|| [Question]() | [Solution]() |Sheet #4|
+|108|F|| [Question]() | [Solution]() |Sheet #4|
+|109|G|| [Question]() | [Solution]() |Sheet #4|
+|110|H|| [Question]() | [Solution]() |Sheet #4|
+|111|I|| [Question]() | [Solution]() |Sheet #4|
+|112|J|| [Question]() | [Solution]() |Sheet #4|
+|113|K|| [Question]() | [Solution]() |Sheet #4|
+|114|L|| [Question]() | [Solution]() |Sheet #4|
+|115|M|| [Question]() | [Solution]() |Sheet #4|
+|116|N|| [Question]() | [Solution]() |Sheet #4|
+|117|O|| [Question]() | [Solution]() |Sheet #4|
+|118|P|| [Question]() | [Solution]() |Sheet #4|
+|119|Q|| [Question]() | [Solution]() |Sheet #4|
+|120|R|| [Question]() | [Solution]() |Sheet #4|
+|121|S|| [Question]() | [Solution]() |Sheet #4|
+|122|T|| [Question]() | [Solution]() |Sheet #4|
+|123|U|| [Question]() | [Solution]() |Sheet #4|
+|124|V|| [Question]() | [Solution]() |Sheet #4|
+|125|W|| [Question]() | [Solution]() |Sheet #4|
+|126|X|| [Question]() | [Solution]() |Sheet #4|
+|127|Y|| [Question]() | [Solution]() |Sheet #4|
+|128|Z|| [Question]() | [Solution]() |Sheet #4|
+|129|A|| [Question]() | [Solution]() |Sheet #5|
+|130|B|| [Question]() | [Solution]() |Sheet #5|
+|131|C|| [Question]() | [Solution]() |Sheet #5|
+|132|D|| [Question]() | [Solution]() |Sheet #5|
+|133|E|| [Question]() | [Solution]() |Sheet #5|
+|134|F|| [Question]() | [Solution]() |Sheet #5|
+|135|G|| [Question]() | [Solution]() |Sheet #5|
+|136|H|| [Question]() | [Solution]() |Sheet #5|
+|137|I|| [Question]() | [Solution]() |Sheet #5|
+|138|J|| [Question]() | [Solution]() |Sheet #5|
+|139|K|| [Question]() | [Solution]() |Sheet #5|
+|140|L|| [Question]() | [Solution]() |Sheet #5|
+|141|M|| [Question]() | [Solution]() |Sheet #5|
+|142|N|| [Question]() | [Solution]() |Sheet #5|
+|143|O|| [Question]() | [Solution]() |Sheet #5|
+|144|A|| [Question]() | [Solution]() |Sheet #6|
+|145|B|| [Question]() | [Solution]() |Sheet #6|
+|146|C|| [Question]() | [Solution]() |Sheet #6|
+|147|D|| [Question]() | [Solution]() |Sheet #6|
+|148|E|| [Question]() | [Solution]() |Sheet #6|
+|149|F|| [Question]() | [Solution]() |Sheet #6|
+|150|G|| [Question]() | [Solution]() |Sheet #6|
+|151|H|| [Question]() | [Solution]() |Sheet #6|
+|152|I|| [Question]() | [Solution]() |Sheet #6|
+|153|J|| [Question]() | [Solution]() |Sheet #6|
+|154|K|| [Question]() | [Solution]() |Sheet #6|
+|155|L|| [Question]() | [Solution]() |Sheet #6|
+|156|M|| [Question]() | [Solution]() |Sheet #6|
+|157|N|| [Question]() | [Solution]() |Sheet #6|
+|158|O|| [Question]() | [Solution]() |Sheet #6|
+|159|P|| [Question]() | [Solution]() |Sheet #6|
+|160|Q|| [Question]() | [Solution]() |Sheet #6|
+|161|R|| [Question]() | [Solution]() |Sheet #6|
+|162|S|| [Question]() | [Solution]() |Sheet #6|
+|163|T|| [Question]() | [Solution]() |Sheet #6|
+|164|U|| [Question]() | [Solution]() |Sheet #6|
+|165|V|| [Question]() | [Solution]() |Sheet #6|
+|166|W|| [Question]() | [Solution]() |Sheet #6|
+|167|X|| [Question]() | [Solution]() |Sheet #6|
+|168|Y|| [Question]() | [Solution]() |Sheet #6|
+|169|Z|| [Question]() | [Solution]() |Sheet #6|
+|170|A|| [Question]() | [Solution]() |Sheet #7|
+|171|B|| [Question]() | [Solution]() |Sheet #7|
+|172|C|| [Question]() | [Solution]() |Sheet #7|
+|173|D|| [Question]() | [Solution]() |Sheet #7|
+|174|E|| [Question]() | [Solution]() |Sheet #7|
+|175|F|| [Question]() | [Solution]() |Sheet #7|
+|176|G|| [Question]() | [Solution]() |Sheet #7|
+|177|H|| [Question]() | [Solution]() |Sheet #7|
+|178|I|| [Question]() | [Solution]() |Sheet #7|
+|179|J|| [Question]() | [Solution]() |Sheet #7|
+|180|K|| [Question]() | [Solution]() |Sheet #7|
+|181|L|| [Question]() | [Solution]() |Sheet #7|
+|182|M|| [Question]() | [Solution]() |Sheet #7|
+|183|N|| [Question]() | [Solution]() |Sheet #7|
+|184|O|| [Question]() | [Solution]() |Sheet #7|
+|185|P|| [Question]() | [Solution]() |Sheet #7|
+|186|Q|| [Question]() | [Solution]() |Sheet #7|
+|187|R|| [Question]() | [Solution]() |Sheet #7|
+|188|S|| [Question]() | [Solution]() |Sheet #7|
+|189|T|| [Question]() | [Solution]() |Sheet #7|
+|190|U|| [Question]() | [Solution]() |Sheet #7|
+|191|V|| [Question]() | [Solution]() |Sheet #7|
+|192|W|| [Question]() | [Solution]() |Sheet #7|
+|193|X|| [Question]() | [Solution]() |Sheet #7|
+|194|Y|| [Question]() | [Solution]() |Sheet #7|
+|195|Z|| [Question]() | [Solution]() |Sheet #7|
+|196|A|| [Question]() | [Solution]() |Sheet #8|
+|197|B|| [Question]() | [Solution]() |Sheet #8|
+|198|C|| [Question]() | [Solution]() |Sheet #8|
+|199|D|| [Question]() | [Solution]() |Sheet #8|
+|200|E|| [Question]() | [Solution]() |Sheet #8|
+|201|F|| [Question]() | [Solution]() |Sheet #8|
+|202|G|| [Question]() | [Solution]() |Sheet #8|
+|203|H|| [Question]() | [Solution]() |Sheet #8|
+|204|I|| [Question]() | [Solution]() |Sheet #8|
+|205|J|| [Question]() | [Solution]() |Sheet #8|
+|206|K|| [Question]() | [Solution]() |Sheet #8|
+|207|L|| [Question]() | [Solution]() |Sheet #8|
+|208|M|| [Question]() | [Solution]() |Sheet #8|
+|209|N|| [Question]() | [Solution]() |Sheet #8|
+|210|O|| [Question]() | [Solution]() |Sheet #8|
+|211|P|| [Question]() | [Solution]() |Sheet #8|
+|212|Q|| [Question]() | [Solution]() |Sheet #8|
+|213|R|| [Question]() | [Solution]() |Sheet #8|
+|214|S|| [Question]() | [Solution]() |Sheet #8|
+|215|T|| [Question]() | [Solution]() |Sheet #8|
+|216|U|| [Question]() | [Solution]() |Sheet #8|
+|217|V|| [Question]() | [Solution]() |Sheet #8|
+|218|W|| [Question]() | [Solution]() |Sheet #8|
+|219|X|| [Question]() | [Solution]() |Sheet #8|
+|220|Y|| [Question]() | [Solution]() |Sheet #8|
+|221|Z|| [Question]() | [Solution]() |Sheet #8|
+|222|A|| [Question]() | [Solution]() |Sheet #9|
+|223|B|| [Question]() | [Solution]() |Sheet #9|
+|224|C|| [Question]() | [Solution]() |Sheet #9|
+|225|D|| [Question]() | [Solution]() |Sheet #9|
+|226|E|| [Question]() | [Solution]() |Sheet #9|
+|227|F|| [Question]() | [Solution]() |Sheet #9|
+|228|G|| [Question]() | [Solution]() |Sheet #9|
+|229|H|| [Question]() | [Solution]() |Sheet #9|
+|230|I|| [Question]() | [Solution]() |Sheet #9|
+|231|J|| [Question]() | [Solution]() |Sheet #9|
+|232|K|| [Question]() | [Solution]() |Sheet #9|
+|233|L|| [Question]() | [Solution]() |Sheet #9|
+|234|M|| [Question]() | [Solution]() |Sheet #9|
+|235|N|| [Question]() | [Solution]() |Sheet #9|
+|236|O|| [Question]() | [Solution]() |Sheet #9|
+|237|P|| [Question]() | [Solution]() |Sheet #9|
+|238|Q|| [Question]() | [Solution]() |Sheet #9|
+|239|R|| [Question]() | [Solution]() |Sheet #9|
+|240|S|| [Question]() | [Solution]() |Sheet #9|
+|241|T|| [Question]() | [Solution]() |Sheet #9|
+|242|U|| [Question]() | [Solution]() |Sheet #9|
+|243|V|| [Question]() | [Solution]() |Sheet #9|
+|244|W|| [Question]() | [Solution]() |Sheet #9|
+|245|X|| [Question]() | [Solution]() |Sheet #9|
+|246|Y|| [Question]() | [Solution]() |Sheet #9|
+|247|Z|| [Question]() | [Solution]() |Sheet #9|
+|248|A|| [Question]() | [Solution]() |Sheet #10|
+|249|B|| [Question]() | [Solution]() |Sheet #10|
+|250|C|| [Question]() | [Solution]() |Sheet #10|
+|251|D|| [Question]() | [Solution]() |Sheet #10|
+|252|E|| [Question]() | [Solution]() |Sheet #10|
+|253|F|| [Question]() | [Solution]() |Sheet #10|
+|254|G|| [Question]() | [Solution]() |Sheet #10|
+|255|H|| [Question]() | [Solution]() |Sheet #10|
+|256|I|| [Question]() | [Solution]() |Sheet #10|
+|257|J|| [Question]() | [Solution]() |Sheet #10|
+|258|K|| [Question]() | [Solution]() |Sheet #10|
+|259|L|| [Question]() | [Solution]() |Sheet #10|
+|260|M|| [Question]() | [Solution]() |Sheet #10|
+|261|N|| [Question]() | [Solution]() |Sheet #10|
+|262|O|| [Question]() | [Solution]() |Sheet #10|
+|263|P|| [Question]() | [Solution]() |Sheet #10|
+|264|Q|| [Question]() | [Solution]() |Sheet #10|
+|265|R|| [Question]() | [Solution]() |Sheet #10|
+|266|S|| [Question]() | [Solution]() |Sheet #10|
+|267|T|| [Question]() | [Solution]() |Sheet #10|
+|268|U|| [Question]() | [Solution]() |Sheet #10|
+|269|V|| [Question]() | [Solution]() |Sheet #10|
+|270|W|| [Question]() | [Solution]() |Sheet #10|
+|271|X|| [Question]() | [Solution]() |Sheet #10|
+|272|Y|| [Question]() | [Solution]() |Sheet #10|
+|273|Z|| [Question]() | [Solution]() |Sheet #10|
 
 
 
