@@ -201,32 +201,32 @@ _Last updated: June, 2025_
 |167|X|Rectangle| [Question]() | [Solution]() |Sheet #6|
 |168|Y|Common Area| [Question]() | [Solution]() |Sheet #6|
 |169|Z|Geometry Test| [Question]() | [Solution]() |Sheet #6|
-|170|A|| [Question]() | [Solution]() |Sheet #7|
-|171|B|| [Question]() | [Solution]() |Sheet #7|
-|172|C|| [Question]() | [Solution]() |Sheet #7|
-|173|D|| [Question]() | [Solution]() |Sheet #7|
-|174|E|| [Question]() | [Solution]() |Sheet #7|
-|175|F|| [Question]() | [Solution]() |Sheet #7|
-|176|G|| [Question]() | [Solution]() |Sheet #7|
-|177|H|| [Question]() | [Solution]() |Sheet #7|
-|178|I|| [Question]() | [Solution]() |Sheet #7|
-|179|J|| [Question]() | [Solution]() |Sheet #7|
-|180|K|| [Question]() | [Solution]() |Sheet #7|
-|181|L|| [Question]() | [Solution]() |Sheet #7|
-|182|M|| [Question]() | [Solution]() |Sheet #7|
-|183|N|| [Question]() | [Solution]() |Sheet #7|
-|184|O|| [Question]() | [Solution]() |Sheet #7|
-|185|P|| [Question]() | [Solution]() |Sheet #7|
-|186|Q|| [Question]() | [Solution]() |Sheet #7|
-|187|R|| [Question]() | [Solution]() |Sheet #7|
-|188|S|| [Question]() | [Solution]() |Sheet #7|
-|189|T|| [Question]() | [Solution]() |Sheet #7|
-|190|U|| [Question]() | [Solution]() |Sheet #7|
-|191|V|| [Question]() | [Solution]() |Sheet #7|
-|192|W|| [Question]() | [Solution]() |Sheet #7|
-|193|X|| [Question]() | [Solution]() |Sheet #7|
-|194|Y|| [Question]() | [Solution]() |Sheet #7|
-|195|Z|| [Question]() | [Solution]() |Sheet #7|
+|170|A|Print Recursion| [Question]() | [Solution]() |Sheet #7|
+|171|B|Print from 1 to N| [Question]() | [Solution]() |Sheet #7|
+|172|C|Print from N to 1| [Question]() | [Solution]() |Sheet #7|
+|173|D|Print Digits using Recursion| [Question]() | [Solution]() |Sheet #7|
+|174|E|Base Converssion| [Question]() | [Solution]() |Sheet #7|
+|175|F|Print Even Indices| [Question]() | [Solution]() |Sheet #7|
+|176|G|Pyramid| [Question]() | [Solution]() |Sheet #7|
+|177|H|Inverted Pyramid| [Question]() | [Solution]() |Sheet #7|
+|178|I|Count Vowels| [Question]() | [Solution]() |Sheet #7|
+|179|J|Factorial| [Question]() | [Solution]() |Sheet #7|
+|180|K|Max Number| [Question]() | [Solution]() |Sheet #7|
+|181|L|Summation| [Question]() | [Solution]() |Sheet #7|
+|182|M|Suffix Sum| [Question]() | [Solution]() |Sheet #7|
+|183|N|Sum of a Matrix| [Question]() | [Solution]() |Sheet #7|
+|184|O|Fibonacci| [Question]() | [Solution]() |Sheet #7|
+|185|P|Log2| [Question]() | [Solution]() |Sheet #7|
+|186|Q|3n + 1 sequence| [Question]() | [Solution]() |Sheet #7|
+|187|R|Palindrome Array| [Question]() | [Solution]() |Sheet #7|
+|188|S|Array Average| [Question]() | [Solution]() |Sheet #7|
+|189|T|Combination| [Question]() | [Solution]() |Sheet #7|
+|190|U|Knapsack| [Question]() | [Solution]() |Sheet #7|
+|191|V|Creating Expression1| [Question]() | [Solution]() |Sheet #7|
+|192|W|Reach Value| [Question]() | [Solution]() |Sheet #7|
+|193|X|The maximum path-sum| [Question]() | [Solution]() |Sheet #7|
+|194|Y|Number of Ways| [Question]() | [Solution]() |Sheet #7|
+|195|Z|Left Max| [Question]() | [Solution]() |Sheet #7|
 |196|A|| [Question]() | [Solution]() |Sheet #8|
 |197|B|| [Question]() | [Solution]() |Sheet #8|
 |198|C|| [Question]() | [Solution]() |Sheet #8|
