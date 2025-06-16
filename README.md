@@ -134,73 +134,73 @@ _Last updated: June, 2025_
 |100|E|Alternating Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/E) | [Solution]() |Contest #3|
 |101|F|Front - End| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/F) | [Solution]() |Contest #3|
 |102|G|Even Hate Odd| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G) | [Solution]() |Contest #3|
-|103|A|| [Question]() | [Solution]() |Sheet #4|
-|104|B|| [Question]() | [Solution]() |Sheet #4|
-|105|C|| [Question]() | [Solution]() |Sheet #4|
-|106|D|| [Question]() | [Solution]() |Sheet #4|
-|107|E|| [Question]() | [Solution]() |Sheet #4|
-|108|F|| [Question]() | [Solution]() |Sheet #4|
-|109|G|| [Question]() | [Solution]() |Sheet #4|
-|110|H|| [Question]() | [Solution]() |Sheet #4|
-|111|I|| [Question]() | [Solution]() |Sheet #4|
-|112|J|| [Question]() | [Solution]() |Sheet #4|
-|113|K|| [Question]() | [Solution]() |Sheet #4|
-|114|L|| [Question]() | [Solution]() |Sheet #4|
-|115|M|| [Question]() | [Solution]() |Sheet #4|
-|116|N|| [Question]() | [Solution]() |Sheet #4|
-|117|O|| [Question]() | [Solution]() |Sheet #4|
-|118|P|| [Question]() | [Solution]() |Sheet #4|
-|119|Q|| [Question]() | [Solution]() |Sheet #4|
-|120|R|| [Question]() | [Solution]() |Sheet #4|
-|121|S|| [Question]() | [Solution]() |Sheet #4|
-|122|T|| [Question]() | [Solution]() |Sheet #4|
-|123|U|| [Question]() | [Solution]() |Sheet #4|
-|124|V|| [Question]() | [Solution]() |Sheet #4|
-|125|W|| [Question]() | [Solution]() |Sheet #4|
-|126|X|| [Question]() | [Solution]() |Sheet #4|
-|127|Y|| [Question]() | [Solution]() |Sheet #4|
-|128|Z|| [Question]() | [Solution]() |Sheet #4|
-|129|A|| [Question]() | [Solution]() |Sheet #5|
-|130|B|| [Question]() | [Solution]() |Sheet #5|
-|131|C|| [Question]() | [Solution]() |Sheet #5|
-|132|D|| [Question]() | [Solution]() |Sheet #5|
-|133|E|| [Question]() | [Solution]() |Sheet #5|
-|134|F|| [Question]() | [Solution]() |Sheet #5|
-|135|G|| [Question]() | [Solution]() |Sheet #5|
-|136|H|| [Question]() | [Solution]() |Sheet #5|
-|137|I|| [Question]() | [Solution]() |Sheet #5|
-|138|J|| [Question]() | [Solution]() |Sheet #5|
-|139|K|| [Question]() | [Solution]() |Sheet #5|
-|140|L|| [Question]() | [Solution]() |Sheet #5|
-|141|M|| [Question]() | [Solution]() |Sheet #5|
-|142|N|| [Question]() | [Solution]() |Sheet #5|
-|143|O|| [Question]() | [Solution]() |Sheet #5|
-|144|A|| [Question]() | [Solution]() |Sheet #6|
-|145|B|| [Question]() | [Solution]() |Sheet #6|
-|146|C|| [Question]() | [Solution]() |Sheet #6|
-|147|D|| [Question]() | [Solution]() |Sheet #6|
-|148|E|| [Question]() | [Solution]() |Sheet #6|
-|149|F|| [Question]() | [Solution]() |Sheet #6|
-|150|G|| [Question]() | [Solution]() |Sheet #6|
-|151|H|| [Question]() | [Solution]() |Sheet #6|
-|152|I|| [Question]() | [Solution]() |Sheet #6|
-|153|J|| [Question]() | [Solution]() |Sheet #6|
-|154|K|| [Question]() | [Solution]() |Sheet #6|
-|155|L|| [Question]() | [Solution]() |Sheet #6|
-|156|M|| [Question]() | [Solution]() |Sheet #6|
-|157|N|| [Question]() | [Solution]() |Sheet #6|
-|158|O|| [Question]() | [Solution]() |Sheet #6|
-|159|P|| [Question]() | [Solution]() |Sheet #6|
-|160|Q|| [Question]() | [Solution]() |Sheet #6|
-|161|R|| [Question]() | [Solution]() |Sheet #6|
-|162|S|| [Question]() | [Solution]() |Sheet #6|
-|163|T|| [Question]() | [Solution]() |Sheet #6|
-|164|U|| [Question]() | [Solution]() |Sheet #6|
-|165|V|| [Question]() | [Solution]() |Sheet #6|
-|166|W|| [Question]() | [Solution]() |Sheet #6|
-|167|X|| [Question]() | [Solution]() |Sheet #6|
-|168|Y|| [Question]() | [Solution]() |Sheet #6|
-|169|Z|| [Question]() | [Solution]() |Sheet #6|
+|103|A|Create A New String| [Question]() | [Solution]() |Sheet #4|
+|104|B|Let's use Getline| [Question]() | [Solution]() |Sheet #4|
+|105|C|Compare| [Question]() | [Solution]() |Sheet #4|
+|106|D|Strings| [Question]() | [Solution]() |Sheet #4|
+|107|E|Count| [Question]() | [Solution]() |Sheet #4|
+|108|F|Way Too Long Words| [Question]() | [Solution]() |Sheet #4|
+|109|G|Conversion| [Question]() | [Solution]() |Sheet #4|
+|110|H|Good or Bad| [Question]() | [Solution]() |Sheet #4|
+|111|I|Palindrome| [Question]() | [Solution]() |Sheet #4|
+|112|J|Count Letters| [Question]() | [Solution]() |Sheet #4|
+|113|K|I Love strings| [Question]() | [Solution]() |Sheet #4|
+|114|L|String Functions| [Question]() | [Solution]() |Sheet #4|
+|115|M|Subsequence String| [Question]() | [Solution]() |Sheet #4|
+|116|N|Max Subsequence| [Question]() | [Solution]() |Sheet #4|
+|117|O|Sort String| [Question]() | [Solution]() |Sheet #4|
+|118|P|Count Words| [Question]() | [Solution]() |Sheet #4|
+|119|Q|Reverse Words| [Question]() | [Solution]() |Sheet #4|
+|120|R|String Score| [Question]() | [Solution]() |Sheet #4|
+|121|S|Max Split| [Question]() | [Solution]() |Sheet #4|
+|122|T|URL| [Question]() | [Solution]() |Sheet #4|
+|123|U|New Words| [Question]() | [Solution]() |Sheet #4|
+|124|V|Replace Word| [Question]() | [Solution]() |Sheet #4|
+|125|W|Encrypt & Decrypt Message| [Question]() | [Solution]() |Sheet #4|
+|126|X|Comparison| [Question]() | [Solution]() |Sheet #4|
+|127|Y|Min Cost String| [Question]() | [Solution]() |Sheet #4|
+|128|Z|Clean Code| [Question]() | [Solution]() |Sheet #4|
+|129|A|Add| [Question]() | [Solution]() |Sheet #5|
+|130|B|Print| [Question]() | [Solution]() |Sheet #5|
+|131|C|Wonderful Number| [Question]() | [Solution]() |Sheet #5|
+|132|D|Prime Function| [Question]() | [Solution]() |Sheet #5|
+|133|E|Swap| [Question]() | [Solution]() |Sheet #5|
+|134|F|Equation| [Question]() | [Solution]() |Sheet #5|
+|135|G|Max and MIN| [Question]() | [Solution]() |Sheet #5|
+|136|H|N Times| [Question]() | [Solution]() |Sheet #5|
+|137|I|Swapping With Matrix| [Question]() | [Solution]() |Sheet #5|
+|138|J|Average| [Question]() | [Solution]() |Sheet #5|
+|139|K|Shift Right| [Question]() | [Solution]() |Sheet #5|
+|140|L|New Array| [Question]() | [Solution]() |Sheet #5|
+|141|M|Distinct Numbers| [Question]() | [Solution]() |Sheet #5|
+|142|N|Shift Zeros| [Question]() | [Solution]() |Sheet #5|
+|143|O|Five in One| [Question]() | [Solution]() |Sheet #5|
+|144|A|Power Of Two| [Question]() | [Solution]() |Sheet #6|
+|145|B|Prime checking| [Question]() | [Solution]() |Sheet #6|
+|146|C|Sum of Range| [Question]() | [Solution]() |Sheet #6|
+|147|D|Xor| [Question]() | [Solution]() |Sheet #6|
+|148|E|Maximum Distinct Numbers| [Question]() | [Solution]() |Sheet #6|
+|149|F|Multiplication of Matrices| [Question]() | [Solution]() |Sheet #6|
+|150|G|Summation of its divisors| [Question]() | [Solution]() |Sheet #6|
+|151|H|GCD| [Question]() | [Solution]() |Sheet #6|
+|152|I|Divisability| [Question]() | [Solution]() |Sheet #6|
+|153|J|Prime Factors| [Question]() | [Solution]() |Sheet #6|
+|154|K|Combination and Permutation| [Question]() | [Solution]() |Sheet #6|
+|155|L|Pascal Triangle| [Question]() | [Solution]() |Sheet #6|
+|156|M|Divisible| [Question]() | [Solution]() |Sheet #6|
+|157|N|Convert to Base| [Question]() | [Solution]() |Sheet #6|
+|158|O|Big Add and Multiply| [Question]() | [Solution]() |Sheet #6|
+|159|P|Factorial Digits| [Question]() | [Solution]() |Sheet #6|
+|160|Q|Product| [Question]() | [Solution]() |Sheet #6|
+|161|R|Distance points| [Question]() | [Solution]() |Sheet #6|
+|162|S|Is Triangle| [Question]() | [Solution]() |Sheet #6|
+|163|T|Circle Task| [Question]() | [Solution]() |Sheet #6|
+|164|U|Straight Line| [Question]() | [Solution]() |Sheet #6|
+|165|V|Two Lines| [Question]() | [Solution]() |Sheet #6|
+|166|W|Circles| [Question]() | [Solution]() |Sheet #6|
+|167|X|Rectangle| [Question]() | [Solution]() |Sheet #6|
+|168|Y|Common Area| [Question]() | [Solution]() |Sheet #6|
+|169|Z|Geometry Test| [Question]() | [Solution]() |Sheet #6|
 |170|A|| [Question]() | [Solution]() |Sheet #7|
 |171|B|| [Question]() | [Solution]() |Sheet #7|
 |172|C|| [Question]() | [Solution]() |Sheet #7|
