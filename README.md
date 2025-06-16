@@ -227,84 +227,84 @@ _Last updated: June, 2025_
 |193|X|The maximum path-sum| [Question]() | [Solution]() |Sheet #7|
 |194|Y|Number of Ways| [Question]() | [Solution]() |Sheet #7|
 |195|Z|Left Max| [Question]() | [Solution]() |Sheet #7|
-|196|A|| [Question]() | [Solution]() |Sheet #8|
-|197|B|| [Question]() | [Solution]() |Sheet #8|
-|198|C|| [Question]() | [Solution]() |Sheet #8|
-|199|D|| [Question]() | [Solution]() |Sheet #8|
-|200|E|| [Question]() | [Solution]() |Sheet #8|
-|201|F|| [Question]() | [Solution]() |Sheet #8|
-|202|G|| [Question]() | [Solution]() |Sheet #8|
-|203|H|| [Question]() | [Solution]() |Sheet #8|
-|204|I|| [Question]() | [Solution]() |Sheet #8|
-|205|J|| [Question]() | [Solution]() |Sheet #8|
-|206|K|| [Question]() | [Solution]() |Sheet #8|
-|207|L|| [Question]() | [Solution]() |Sheet #8|
-|208|M|| [Question]() | [Solution]() |Sheet #8|
-|209|N|| [Question]() | [Solution]() |Sheet #8|
-|210|O|| [Question]() | [Solution]() |Sheet #8|
-|211|P|| [Question]() | [Solution]() |Sheet #8|
-|212|Q|| [Question]() | [Solution]() |Sheet #8|
-|213|R|| [Question]() | [Solution]() |Sheet #8|
-|214|S|| [Question]() | [Solution]() |Sheet #8|
-|215|T|| [Question]() | [Solution]() |Sheet #8|
-|216|U|| [Question]() | [Solution]() |Sheet #8|
-|217|V|| [Question]() | [Solution]() |Sheet #8|
-|218|W|| [Question]() | [Solution]() |Sheet #8|
-|219|X|| [Question]() | [Solution]() |Sheet #8|
-|220|Y|| [Question]() | [Solution]() |Sheet #8|
-|221|Z|| [Question]() | [Solution]() |Sheet #8|
-|222|A|| [Question]() | [Solution]() |Sheet #9|
-|223|B|| [Question]() | [Solution]() |Sheet #9|
-|224|C|| [Question]() | [Solution]() |Sheet #9|
-|225|D|| [Question]() | [Solution]() |Sheet #9|
-|226|E|| [Question]() | [Solution]() |Sheet #9|
-|227|F|| [Question]() | [Solution]() |Sheet #9|
-|228|G|| [Question]() | [Solution]() |Sheet #9|
-|229|H|| [Question]() | [Solution]() |Sheet #9|
-|230|I|| [Question]() | [Solution]() |Sheet #9|
-|231|J|| [Question]() | [Solution]() |Sheet #9|
-|232|K|| [Question]() | [Solution]() |Sheet #9|
-|233|L|| [Question]() | [Solution]() |Sheet #9|
-|234|M|| [Question]() | [Solution]() |Sheet #9|
-|235|N|| [Question]() | [Solution]() |Sheet #9|
-|236|O|| [Question]() | [Solution]() |Sheet #9|
-|237|P|| [Question]() | [Solution]() |Sheet #9|
-|238|Q|| [Question]() | [Solution]() |Sheet #9|
-|239|R|| [Question]() | [Solution]() |Sheet #9|
-|240|S|| [Question]() | [Solution]() |Sheet #9|
-|241|T|| [Question]() | [Solution]() |Sheet #9|
-|242|U|| [Question]() | [Solution]() |Sheet #9|
-|243|V|| [Question]() | [Solution]() |Sheet #9|
-|244|W|| [Question]() | [Solution]() |Sheet #9|
-|245|X|| [Question]() | [Solution]() |Sheet #9|
-|246|Y|| [Question]() | [Solution]() |Sheet #9|
-|247|Z|| [Question]() | [Solution]() |Sheet #9|
-|248|A|| [Question]() | [Solution]() |Sheet #10|
-|249|B|| [Question]() | [Solution]() |Sheet #10|
-|250|C|| [Question]() | [Solution]() |Sheet #10|
-|251|D|| [Question]() | [Solution]() |Sheet #10|
-|252|E|| [Question]() | [Solution]() |Sheet #10|
-|253|F|| [Question]() | [Solution]() |Sheet #10|
-|254|G|| [Question]() | [Solution]() |Sheet #10|
-|255|H|| [Question]() | [Solution]() |Sheet #10|
-|256|I|| [Question]() | [Solution]() |Sheet #10|
-|257|J|| [Question]() | [Solution]() |Sheet #10|
-|258|K|| [Question]() | [Solution]() |Sheet #10|
-|259|L|| [Question]() | [Solution]() |Sheet #10|
-|260|M|| [Question]() | [Solution]() |Sheet #10|
-|261|N|| [Question]() | [Solution]() |Sheet #10|
-|262|O|| [Question]() | [Solution]() |Sheet #10|
-|263|P|| [Question]() | [Solution]() |Sheet #10|
-|264|Q|| [Question]() | [Solution]() |Sheet #10|
-|265|R|| [Question]() | [Solution]() |Sheet #10|
-|266|S|| [Question]() | [Solution]() |Sheet #10|
-|267|T|| [Question]() | [Solution]() |Sheet #10|
-|268|U|| [Question]() | [Solution]() |Sheet #10|
-|269|V|| [Question]() | [Solution]() |Sheet #10|
-|270|W|| [Question]() | [Solution]() |Sheet #10|
-|271|X|| [Question]() | [Solution]() |Sheet #10|
-|272|Y|| [Question]() | [Solution]() |Sheet #10|
-|273|Z|| [Question]() | [Solution]() |Sheet #10|
+|196|A|Palindromes Replace| [Question]() | [Solution]() |Sheet #8|
+|197|B|Watermelon1| [Question]() | [Solution]() |Sheet #8|
+|198|C|Koko And The Transformation| [Question]() | [Solution]() |Sheet #8|
+|199|D|Bear and Big Brother| [Question]() | [Solution]() |Sheet #8|
+|200|E|George and Accommodation| [Question]() | [Solution]() |Sheet #8|
+|201|F|Fox And Snake| [Question]() | [Solution]() |Sheet #8|
+|202|G|Magnets1| [Question]() | [Solution]() |Sheet #8|
+|203|H|Presents1| [Question]() | [Solution]() |Sheet #8|
+|204|I|Colorful Stones (Simplified Edition)1| [Question]() | [Solution]() |Sheet #8|
+|205|J|Lucky Division1| [Question]() | [Solution]() |Sheet #8|
+|206|K|Prime Fibonacci| [Question]() | [Solution]() |Sheet #8|
+|207|L|Sereja and Dima| [Question]() | [Solution]() |Sheet #8|
+|208|M|The New Year: Meeting Friends| [Question]() | [Solution]() |Sheet #8|
+|209|N|Cakeminator1| [Question]() | [Solution]() |Sheet #8|
+|210|O|Free Ice Cream| [Question]() | [Solution]() |Sheet #8|
+|211|P|Police Recruits| [Question]() | [Solution]() |Sheet #8|
+|212|Q|Night at the Museum| [Question]() | [Solution]() |Sheet #8|
+|213|R|Arrival of the General1| [Question]() | [Solution]() |Sheet #8|
+|214|S|Good Number| [Question]() | [Solution]() |Sheet #8|
+|215|T|Helpful Maths1| [Question]() | [Solution]() |Sheet #8|
+|216|U|Ilya and Bank Account1| [Question]() | [Solution]() |Sheet #8|
+|217|V|Is it rated?| [Question]() | [Solution]() |Sheet #8|
+|218|W|Mahmoud and Longest Uncommon Subsequence| [Question]() | [Solution]() |Sheet #8|
+|219|X|Panoramix's Prediction1| [Question]() | [Solution]() |Sheet #8|
+|220|Y|Team Olympiad| [Question]() | [Solution]() |Sheet #8|
+|221|Z|Decoding| [Question]() | [Solution]() |Sheet #8|
+|222|A|Drawing Task| [Question]() | [Solution]() |Sheet #9|
+|223|B|Arpa’s hard exam and Mehrdad’s naive cheat| [Question]() | [Solution]() |Sheet #9|
+|224|C|Dragons1| [Question]() | [Solution]() |Sheet #9|
+|225|D|Juicer| [Question]() | [Solution]() |Sheet #9|
+|226|E|Keyboard| [Question]() | [Solution]() |Sheet #9|
+|227|F|Puzzles1| [Question]() | [Solution]() |Sheet #9|
+|228|G|Twins1| [Question]() | [Solution]() |Sheet #9|
+|229|H|Launch of Collider| [Question]() | [Solution]() |Sheet #9|
+|230|I|Lineland Mail| [Question]() | [Solution]() |Sheet #9|
+|231|J|Shaass and Oskols1| [Question]() | [Solution]() |Sheet #9|
+|232|K|Stars Drawing (Easy Edition)| [Question]() | [Solution]() |Sheet #9|
+|233|L|Announcement !| [Question]() | [Solution]() |Sheet #9|
+|234|M|!Palindromes| [Question]() | [Solution]() |Sheet #9|
+|235|N|Pumbaa And Apples| [Question]() | [Solution]() |Sheet #9|
+|236|O|Yaroslav and Permutations1| [Question]() | [Solution]() |Sheet #9|
+|237|P|Calculating Function| [Question]() | [Solution]() |Sheet #9|
+|238|Q|Dreamoon and Stairs| [Question]() | [Solution]() |Sheet #9|
+|239|R|Ksenia and Pan Scales| [Question]() | [Solution]() |Sheet #9|
+|240|S|Mahmoud and a Triangle| [Question]() | [Solution]() |Sheet #9|
+|241|T|Olesya and Rodion| [Question]() | [Solution]() |Sheet #9|
+|242|U|T-primes1| [Question]() | [Solution]() |Sheet #9|
+|243|V|Balanced Rating Changes| [Question]() | [Solution]() |Sheet #9|
+|244|W|Football1| [Question]() | [Solution]() |Sheet #9|
+|245|X|Mountain Scenery1| [Question]() | [Solution]() |Sheet #9|
+|246|Y|Polo the Penguin and Segments 1| [Question]() | [Solution]() |Sheet #9|
+|247|Z|Fraction| [Question]() | [Solution]() |Sheet #9|
+|248|A|Palindromes Replace| [Question]() | [Solution]() |Sheet #10|
+|249|B|Delete from the Left| [Question]() | [Solution]() |Sheet #10|
+|250|C|Koko And The Transformation| [Question]() | [Solution]() |Sheet #10|
+|251|D|Hussien and Strings| [Question]() | [Solution]() |Sheet #10|
+|252|E|Construct The Sum| [Question]() | [Solution]() |Sheet #10|
+|253|F|Marks| [Question]() | [Solution]() |Sheet #10|
+|254|G|Smallest Product| [Question]() | [Solution]() |Sheet #10|
+|255|H|Chewbaсca and Number| [Question]() | [Solution]() |Sheet #10|
+|256|I|Coins1| [Question]() | [Solution]() |Sheet #10|
+|257|J|Help Vasilisa the Wise 21| [Question]() | [Solution]() |Sheet #10|
+|258|K|Snacktower| [Question]() | [Solution]() |Sheet #10|
+|259|L|Two Squares| [Question]() | [Solution]() |Sheet #10|
+|260|M|Postcard| [Question]() | [Solution]() |Sheet #10|
+|261|N|Katryoshka| [Question]() | [Solution]() |Sheet #10|
+|262|O|Help Koko| [Question]() | [Solution]() |Sheet #10|
+|263|P|No Time for Dragons| [Question]() | [Solution]() |Sheet #10|
+|264|Q|Bulbs| [Question]() | [Solution]() |Sheet #10|
+|265|R|Cut Ribbon| [Question]() | [Solution]() |Sheet #10|
+|266|S|DZY Loves Chessboard| [Question]() | [Solution]() |Sheet #10|
+|267|T|Easter Eggs1| [Question]() | [Solution]() |Sheet #10|
+|268|U|From S To T| [Question]() | [Solution]() |Sheet #10|
+|269|V|New Password| [Question]() | [Solution]() |Sheet #10|
+|270|W|Hussien and Arrays 2| [Question]() | [Solution]() |Sheet #10|
+|271|X|Strange Addition1| [Question]() | [Solution]() |Sheet #10|
+|272|Y|Spiral| [Question]() | [Solution]() |Sheet #10|
+|273|Z|Triangle1| [Question]() | [Solution]() |Sheet #10|
 
 
 
