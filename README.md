@@ -32,32 +32,32 @@ _Last updated: June, 2025_
 ## 📘 Index
 | Index | Problem Letter | Problem Name       | Question | Solution | Sheet No.                   |
 |-------|------------|--------------------|----------|----------|-----------------------------|
-| 1     | A | Say Hello With C++     | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Solution]() | Sheet #1 |
-| 2     | B | Basic Data Types  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Solution]() | Sheet #1 |
-| 3     | C | Simple Calculator  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Solution]() | Sheet #1 |
-| 4     | D | Difference  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [Solution]() | Sheet #1 |
-| 5    | E   | Area of a Circle | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [Solution]() | Sheet #1 |
-| 6    |  F  | Digits Summation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Solution]() | Sheet #1 |
-| 7    |  G  | Summation from 1 to N | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Solution]() | Sheet #1 |
-| 8    |  H  | Two numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Solution]() | Sheet #1 |
-| 9    |  I  |Welcome for you with Conditions | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Solution]() | Sheet #1 |
-| 10    |  J  | Multiples | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Solution]() | Sheet #1 |
-| 11|  K  | Max and Min | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) | [Solution]() | Sheet #1 |
-| 12|  L  | The Brothers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [Solution]() | Sheet #1 |
-| 13|  M  | Capital or Small or Digit | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M) | [Solution]() | Sheet #1 |
-| 14|  N  | Char | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [Solution]() | Sheet #1 |
-| 15|  O  | Calculator | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [Solution]() | Sheet #1 |
-| 16|  P  | First digit ! | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [Solution]() | Sheet #1 |
-| 17|  Q  | Coordinates of a Point | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) | [Solution]() | Sheet #1 |
-| 18|  R  | Age in Days | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) | [Solution]() | Sheet #1 |
-| 19|  S  | Interval | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [Solution]() | Sheet #1 |
-| 20|  T  | Sort Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [Solution]() | Sheet #1 |
-| 21|  U  | Float or int | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [Solution]() | Sheet #1 |
-| 22|  V  | Comparison | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V) | [Solution]() | Sheet #1 |
-| 23|  W  | Mathematical Expression | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) | [Solution]() | Sheet #1 |
-| 24|  X  | Two intervals | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution]() | Sheet #1 |
-| 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution]() | Sheet #1 |
-| 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution]() | Sheet #1 |
+| 1     | A | Say Hello With C++     | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/A%20-%20Say%20Hello%20With%20C%2B%2B) | Sheet #1 |
+| 2     | B | Basic Data Types  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/B%20-%20Basic%20Data%20Types) | Sheet #1 |
+| 3     | C | Simple Calculator  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/C%20-%20Simple%20Calculator) | Sheet #1 |
+| 4     | D | Difference  | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/D%20-%20Difference) | Sheet #1 |
+| 5    | E   | Area of a Circle | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/E%20-%20Area%20of%20a%20Circle) | Sheet #1 |
+| 6    |  F  | Digits Summation | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/F%20-%20Digits%20Summation) | Sheet #1 |
+| 7    |  G  | Summation from 1 to N | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/G%20-%20Summation%20from%201%20to%20N) | Sheet #1 |
+| 8    |  H  | Two numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/H%20-%20Two%20numbers) | Sheet #1 |
+| 9    |  I  |Welcome for you with Conditions | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/I%20-%20Welcome%20for%20you%20with%20Conditions) | Sheet #1 |
+| 10    |  J  | Multiples | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/J%20-%20Multiples) | Sheet #1 |
+| 11|  K  | Max and Min | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/K%20-%20Max%20and%20Min) | Sheet #1 |
+| 12|  L  | The Brothers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/L%20-%20The%20Brothers) | Sheet #1 |
+| 13|  M  | Capital or Small or Digit | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/M%20-%20Capital%20or%20Small%20or%20Digit) | Sheet #1 |
+| 14|  N  | Char | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/N%20-%20Char) | Sheet #1 |
+| 15|  O  | Calculator | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/O%20-%20Calculator) | Sheet #1 |
+| 16|  P  | First digit ! | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/P%20-%20First%20digit%20!) | Sheet #1 |
+| 17|  Q  | Coordinates of a Point | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/Q%20-%20Coordinates%20of%20a%20Point) | Sheet #1 |
+| 18|  R  | Age in Days | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/R%20-%20Age%20in%20Days) | Sheet #1 |
+| 19|  S  | Interval | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/S%20-%20Interval) | Sheet #1 |
+| 20|  T  | Sort Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/T%20-%20Sort%20Numbers) | Sheet #1 |
+| 21|  U  | Float or int | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/U%20-%20Float%20or%20int) | Sheet #1 |
+| 22|  V  | Comparison | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/V%20-%20Comparison) | Sheet #1 |
+| 23|  W  | Mathematical Expression | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/W%20-%20Mathematical%20Expression) | Sheet #1 |
+| 24|  X  | Two intervals | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/X%20-%20Two%20intervals) | Sheet #1 |
+| 25|  Y | The last 2 digits | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/Y%20-%20The%20last%202%20digits) | Sheet #1 |
+| 26|  Z  | Hard Compare | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%231/Z%20-%20Hard%20Compare) | Sheet #1 |
 | 27|  A | Winter Sale| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A) | [Solution]() | Contest #1 |
 | 28|  B | Memo and Momo| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B) | [Solution]() | Contest #1 |
 | 29|  C |Next Alphabet | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C) | [Solution]() | Contest #1 |
