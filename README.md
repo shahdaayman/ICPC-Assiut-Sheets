@@ -102,7 +102,7 @@ _Last updated: June, 2025_
 |68|G|Construct the Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/G) | [Solution]() |Contest #2|
 |69|H|Simple Mod| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/H) | [Solution]() |Contest #2|
 |70|A|Summation| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [Solution]() |Sheet #3|
-|71|B|Searching| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [Solution]() |Sheet #3|
+|71|B|Searching| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/B%20-%20Searching) |Sheet #3|
 |72|C|Replacement| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [Solution]() |Sheet #3|
 |73|D|Positions in array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [Solution]() |Sheet #3|
 |74|E|Lowest Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) | [Solution]() |Sheet #3|
