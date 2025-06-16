@@ -127,13 +127,13 @@ _Last updated: June, 2025_
 |93|X|8 Neighbors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) | [Solution]() |Sheet #3|
 |94|Y|Range sum query| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [Solution]() |Sheet #3|
 |95|Z|Binary Search| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [Solution]() |Sheet #3|
-|96|A|| [Question]() | [Solution]() |Contest #3|
-|97|B|| [Question]() | [Solution]() |Contest #3|
-|98|C|| [Question]() | [Solution]() |Contest #3|
-|99|D|| [Question]() | [Solution]() |Contest #3|
-|100|E|| [Question]() | [Solution]() |Contest #3|
-|101|F|| [Question]() | [Solution]() |Contest #3|
-|102|G|| [Question]() | [Solution]() |Contest #3|
+|96|A|Square or rectangle| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A) | [Solution]() |Contest #3|
+|97|B|Reversing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/B) | [Solution]() |Contest #3|
+|98|C|Choose Elements| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/C) | [Solution]() |Contest #3|
+|99|D|Counting Elements| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D) | [Solution]() |Contest #3|
+|100|E|Alternating Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/E) | [Solution]() |Contest #3|
+|101|F|Front - End| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/F) | [Solution]() |Contest #3|
+|102|G|Even Hate Odd| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G) | [Solution]() |Contest #3|
 |103|A|| [Question]() | [Solution]() |Sheet #4|
 |104|B|| [Question]() | [Solution]() |Sheet #4|
 |105|C|| [Question]() | [Solution]() |Sheet #4|
