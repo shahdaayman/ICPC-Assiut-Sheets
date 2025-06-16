@@ -101,33 +101,32 @@ _Last updated: June, 2025_
 |67|F|Break Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/F) | [Solution]() |Contest #2|
 |68|G|Construct the Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/G) | [Solution]() |Contest #2|
 |69|H|Simple Mod| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/H) | [Solution]() |Contest #2|
-|70|A|| [Question]() | [Solution]() |Sheet #3|
-|71|B|| [Question]() | [Solution]() |Sheet #3|
-|72|C|| [Question]() | [Solution]() |Sheet #3|
-|73|D|| [Question]() | [Solution]() |Sheet #3|
-|74|E|| [Question]() | [Solution]() |Sheet #3|
-|75|F|| [Question]() | [Solution]() |Sheet #3|
-|76|G|| [Question]() | [Solution]() |Sheet #3|
-|76|G|| [Question]() | [Solution]() |Sheet #3|
-|77|H|| [Question]() | [Solution]() |Sheet #3|
-|78|I|| [Question]() | [Solution]() |Sheet #3|
-|79|J|| [Question]() | [Solution]() |Sheet #3|
-|80|K|| [Question]() | [Solution]() |Sheet #3|
-|81|L|| [Question]() | [Solution]() |Sheet #3|
-|82|M|| [Question]() | [Solution]() |Sheet #3|
-|83|N|| [Question]() | [Solution]() |Sheet #3|
-|84|O|| [Question]() | [Solution]() |Sheet #3|
-|85|P|| [Question]() | [Solution]() |Sheet #3|
-|86|Q|| [Question]() | [Solution]() |Sheet #3|
-|87|R|| [Question]() | [Solution]() |Sheet #3|
-|88|S|| [Question]() | [Solution]() |Sheet #3|
-|89|T|| [Question]() | [Solution]() |Sheet #3|
-|90|U|| [Question]() | [Solution]() |Sheet #3|
-|91|V|| [Question]() | [Solution]() |Sheet #3|
-|92|W|| [Question]() | [Solution]() |Sheet #3|
-|93|X|| [Question]() | [Solution]() |Sheet #3|
-|94|Y|| [Question]() | [Solution]() |Sheet #3|
-|95|Z|| [Question]() | [Solution]() |Sheet #3|
+|70|A|Summation| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [Solution]() |Sheet #3|
+|71|B|Searching| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [Solution]() |Sheet #3|
+|72|C|Replacement| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [Solution]() |Sheet #3|
+|73|D|Positions in array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [Solution]() |Sheet #3|
+|74|E|Lowest Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) | [Solution]() |Sheet #3|
+|75|F|Reversing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) | [Solution]() |Sheet #3|
+|76|G|Palindrome Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) | [Solution]() |Sheet #3|
+|77|H|Sorting| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [Solution]() |Sheet #3|
+|78|I|Smallest Pair| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) | [Solution]() |Sheet #3|
+|79|J|Lucky Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) | [Solution]() |Sheet #3|
+|80|K|Sum Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) | [Solution]() |Sheet #3|
+|81|L|Max Subarray| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) | [Solution]() |Sheet #3|
+|82|M|Replace MinMax| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) | [Solution]() |Sheet #3|
+|83|N|Check Code| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) | [Solution]() |Sheet #3|
+|84|O|Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [Solution]() |Sheet #3|
+|85|P|Minimize Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) | [Solution]() |Sheet #3|
+|86|Q|Count Subarrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) | [Solution]() |Sheet #3|
+|87|R|Permutation with arrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) | [Solution]() |Sheet #3|
+|88|S|Search In Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) | [Solution]() |Sheet #3|
+|89|T|Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) | [Solution]() |Sheet #3|
+|90|U|Is B a subsequence of A ?| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) | [Solution]() |Sheet #3|
+|91|V|Frequency Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) | [Solution]() |Sheet #3|
+|92|W|Mirror Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [Solution]() |Sheet #3|
+|93|X|8 Neighbors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) | [Solution]() |Sheet #3|
+|94|Y|Range sum query| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [Solution]() |Sheet #3|
+|95|Z|Binary Search| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [Solution]() |Sheet #3|
 |96|A|| [Question]() | [Solution]() |Contest #3|
 |97|B|| [Question]() | [Solution]() |Contest #3|
 |98|C|| [Question]() | [Solution]() |Contest #3|
