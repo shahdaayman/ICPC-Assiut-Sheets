@@ -67,8 +67,6 @@ _Last updated: June, 2025_
 | 33|  G |Katryoshka | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/G%20-%20Katryoshka) | Contest #1 |
 | 34|  H | Data Type Guessing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/H%20-%20Data%20Type%20Guessing) | Contest #1 |
 | 35|  I |Lucky Numbers | [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Contest%20%231/I%20-%20Lucky%20Numbers) | Contest #1 |
-
-
 |36|A|1 to N| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/A%20-%201%20to%20N) |Sheet #2|
 |37|B|Even Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/B%20-%20Even%20Numbers) |Sheet #2|
 |38|C|Even, Odd, Positive and Negative| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/C%20-%20Even%2C%20Odd%2C%20Positive%20and%20Negative) |Sheet #2|
