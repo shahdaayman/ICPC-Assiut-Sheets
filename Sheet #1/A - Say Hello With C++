@@ -1,3 +1,4 @@
+//C++:
 #include<iostream>
 using namespace std;
 int main() {
@@ -6,3 +7,7 @@ int main() {
 	cout << "Hello, " << S << endl;
 	return 0;
 }
+//====================================================
+//Python:
+s = input()
+print(f"Hello, {s}")
