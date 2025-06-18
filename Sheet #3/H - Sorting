@@ -46,5 +46,57 @@ int main() {
     return 0;
 }
 //=========================================================
+3- Array- Selection Sort:
+#include<iostream>
+using namespace std;
+int main() {
+	int size;
+	int arr[1000];
+	cin >> size;
+	for (int i = 0;i < size;i++) {
+		cin >> arr[i];
+	}
+	for (int i = 0; i < size - 1; i++) {
+		int min_idx = i;
+		for (int j = i + 1; j < size; j++) {
+			if (arr[j] < arr[min_idx])
+				min_idx = j;
+		}
+		if (min_idx != i)
+			swap(arr[min_idx], arr[i]);
+	}
+	for (int i = 0;i < size;i++) {
+		cout << arr[i]<<" ";
+	}
+    return 0;
+}
+//=========================================================
+4- Vector- Selection Sort:
+#include<iostream>
+#include<vector>
+using namespace std;
+int main() {
+	int size;
+	vector<int> v;
+	cin >> size;
+	v.resize(size);
+	for (int i = 0;i < size;i++) {
+		cin >> v[i];
+	}
+	for (int i = 0; i < size - 1; i++) {
+		int min_idx = i;
+		for (int j = i + 1; j < size; j++) {
+			if (v[j] < v[min_idx])
+				min_idx = j;
+		}
+		if (min_idx != i)
+			swap(v[min_idx], v[i]);
+	}
+	for (int i = 0;i < size;i++) {
+		cout << v[i]<<" ";
+	}
+
+    return 0;
+}
 
 
