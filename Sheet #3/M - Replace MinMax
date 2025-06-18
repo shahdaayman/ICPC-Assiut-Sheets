@@ -1,0 +1,67 @@
+#include <iostream>
+using namespace std;
+int main() {
+    long long arr[100000];
+    int size;
+	cin >> size;
+	cin >> arr[0];
+	int minimum = arr[0];
+	int minIndex = 0;
+	int maxium = arr[0];
+	int maxIndex = 0;
+	for (int i = 1;i < size;i++) {
+		cin >> arr[i];
+	}
+	for (int i = 0;i < size;i++) {
+		if (arr[i] < minimum) {
+			minimum = arr[i];
+			minIndex = i;
+		}
+		if (arr[i] > maxium) {
+			maxium = arr[i];
+			maxIndex = i;
+		}
+	}
+	arr[maxIndex] = minimum;
+	arr[minIndex] = maxium;
+	for (int i = 0;i < size;i++) {
+		cout << arr[i] << " ";
+	}
+    return 0;
+}
+
+//============================================
+//Another Solution:
+#include<iostream>
+#include<vector>
+#include<algorithm>
+using namespace std;
+int main() {
+	vector<int> v;
+	int size;
+	cin >> size;
+	v.resize(size);
+	cin >> v[0];
+	int minimum = v[0];
+	int minIndex=0;
+	int maxium = v[0];
+	int maxIndex=0;
+	for (int i = 1;i < size;i++) {
+		cin >> v[i];
+	}
+	for (int i = 0;i < size;i++) {
+		if (v[i] < minimum) {
+			minimum = v[i];
+			minIndex = i;
+		}
+		if (v[i] > maxium) {
+			maxium = v[i];
+			maxIndex = i;
+		}
+	}
+	v[maxIndex] = minimum;
+	v[minIndex] = maxium;
+	for (int i = 0;i < size;i++) {
+		cout << v[i] << " ";
+	}
+}
