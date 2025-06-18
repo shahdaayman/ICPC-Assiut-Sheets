@@ -1,0 +1,44 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int arr[100000];
+	int size;
+	cin >> size;
+	for (int i = 0;i < size;i++) {
+		cin >> arr[i];
+		if (arr[i] < 0) {
+			cout << 2 << " ";
+		}
+		else if (arr[i] > 0) {
+			cout << 1 << " ";
+		}
+		else {
+			cout << 0 << " ";
+		}
+	}
+	return 0;
+}
+//============================================
+//Another Solution:
+#include<iostream>
+#include<vector>
+using namespace std;
+int main() {
+	vector<int> v;
+	int size;
+	cin >> size;
+	v.resize(size);
+	for (int i = 0;i < size;i++) {
+		cin >> v[i];
+		if (v[i] < 0) {
+			cout << 2 << " ";
+		}
+		else if (v[i] > 0) {
+			cout << 1 << " ";
+		}
+		else {
+			cout << 0 << " ";
+		}
+	}
+	return 0;
+}
