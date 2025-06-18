@@ -1,0 +1,51 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+    int t;
+    int arr[100];
+    int size;
+    cin >> t;
+    while (t--) {
+        cin >> size;
+        for (int i = 0; i < size; i++) {
+            cin >> arr[i];
+        }
+        int answer = INT32_MAX; 
+        for (int i = 0; i < size; i++) {
+            for (int j = i + 1; j < size; j++) {
+                answer = min(answer, arr[i] + arr[j] + (j - i));
+            }
+        }
+        cout << answer << endl;
+    }
+    return 0;
+}
+//==================================================================================
+//Another Solution:
+#include<iostream>
+#include<algorithm>
+#include<vector>
+using namespace std;
+int main() {
+    int t;
+    vector<int>v;
+    int size;
+    cin >> t;
+    while (t--) {
+        cin >> size;
+        v.resize(size);
+        for (int i = 0; i < size; i++) {
+            cin >> v[i];
+        }
+        int answer = INT32_MAX; 
+        for (int i = 0; i < size; i++) {
+            for (int j = i + 1; j < size; j++) {
+                answer = min(answer, v[i] + v[j] + (j - i));
+            }
+        }
+        cout << answer << endl;
+    }
+    return 0;
+}
+
