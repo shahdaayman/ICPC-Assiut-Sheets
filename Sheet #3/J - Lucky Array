@@ -1,0 +1,63 @@
+//Explanation of the question:
+the task is to identify the smallest number (minimum) in the array, 
+then count how many times this number appears. If the count of the minimum number is odd, print "Lucky"; otherwise, if the count is even, print "Not Lucky".
+==================================================================================================================================================================
+#include <iostream>
+using namespace std;
+int main() {
+    int arr[1000];
+    int size;
+    long long cnt=0;
+    cin >> size;
+    int minimum = INT16_MAX;
+    for (int i = 0;i < size;i++) {
+        cin >> arr[i];
+        if (arr[i] < minimum) {
+            minimum = arr[i];
+        }
+    }
+    for (int i = 0;i < size;i++) {
+        if (arr[i] == minimum) {
+            cnt++;
+        }
+    }
+    if (cnt % 2 != 0) {
+        cout << "Lucky" << endl;
+    }
+    else {
+        cout << "Unlucky" << endl;
+    }
+    return 0;
+}
+//============================================
+//Another Solution:
+#include <iostream>
+#include<vector>
+using namespace std;
+int main() {
+    vector<int> v;
+    int size;
+    long long cnt=0;
+    cin >> size;
+    v.resize(size);
+    int minimum = INT16_MAX;
+    for (int i = 0;i < size;i++) {
+        cin >> v[i];
+        if (v[i] < minimum) {
+            minimum = v[i];
+        }
+    }
+    for (int i = 0;i < size;i++) {
+        if (v[i] == minimum) {
+            cnt++;
+        }
+    }
+    if (cnt % 2 != 0) {
+        cout << "Lucky" << endl;
+    }
+    else {
+        cout << "Unlucky" << endl;
+    }
+    return 0;
+}
+
