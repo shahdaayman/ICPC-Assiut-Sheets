@@ -1,0 +1,43 @@
+#include<iostream>
+using namespace std;
+int main() {
+	int arr[1000];
+	int size;
+	cin >> size;
+	cin >> arr[0];
+	int minimum = arr[0];
+	int minIndex=0;
+	for (int i = 1;i < size;i++) {
+		cin >> arr[i];
+		if (arr[i] < minimum) {
+			minimum = arr[i];
+			minIndex = i;
+		}
+	}
+	cout << minimum << " " << minIndex + 1;
+
+	return 0;
+}
+//=========================================================
+//Another Solution:
+#include<iostream>
+#include<vector>
+using namespace std;
+int main() {
+	vector<int> v;
+	int size;
+	cin >> size;
+	v.resize(size);
+	cin >> v[0];
+	int minimum = v[0];
+	int minIndex = 0;
+	for (int i = 1;i < size;i++) {
+		cin >> v[i];
+		if (v[i] < minimum) {
+			minimum = v[i];
+			minIndex = i;
+		}
+	}
+	cout << minimum << " " << minIndex+1 << endl;
+	return 0;
+}
