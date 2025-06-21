@@ -1,0 +1,58 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main() {
+	int n, a, b;
+	cin >> n >> a >> b;
+	long long sum = 0;
+	long long total = 0;
+	for (int i = 1;i <= n;i++) {
+		sum = 0;
+		string s = to_string(i);  
+		for (int j = 0;j < s.size();j++) {
+			sum += s[j] - '0';
+		}
+		if (sum >= a && sum <= b) {
+			total += i;
+		}
+	}
+	cout << total << endl;
+	return 0;
+}
+
+//Tracing:
+//n = 20, a = 2, b = 5
+//string s = to_string(i);  // s = "12"
+//sum = 0;
+//sum += s[0] - '0';  // sum += '1' - '0' = 1
+//sum += s[1] - '0';  // sum += '2' - '0' = 2
+// sum = 1 + 2 = 3
+//if (sum >= a && sum <= b)  // if (3 >= 2 && 3 <= 5)
+//total += i;  // total += 12
+
+//========================================================================
+//Another Solution:
+#include<iostream>
+using namespace std;
+int main() {
+	int n, a, b;
+	int temp=0,last=0;
+	long long tempSum = 0,total = 0;
+	cin >> n >> a >> b;
+	for (int i = 1;i <= n;i++) {
+		 temp = i; 
+		 tempSum = 0;
+		while (temp != 0) {
+			 last = temp % 10; 
+			 tempSum += last; 
+			 temp /= 10; 
+		}
+		if (tempSum >= a && tempSum <= b) {
+			total += i;
+		}
+	}
+	cout << total << endl;
+	return 0;
+}
+
+
