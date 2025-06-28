@@ -10,3 +10,16 @@ int main() {
 	cout << x << endl << y << endl << z << endl << f << endl << d << endl;
 	return 0;
 }
+//====================================================
+//Python:
+data=input().split()
+intNUM=int(data[0])
+llNUM=int(data[1])
+charNUM=data[2]
+floatNUM=float(data[3])
+doubleNUM=float(data[4])
+print(intNUM)
+print(llNUM)
+print(charNUM)
+print(floatNUM)
+print(doubleNUM)
