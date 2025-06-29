@@ -1,3 +1,4 @@
+//C++:
 #include<iostream>
 using namespace std;
 int main() {
@@ -8,3 +9,13 @@ int main() {
 	cout << x << " - " << y << " = " << x - y << endl;
 	return 0;
 }
+//======================================================================
+//Python:
+data = input().split()
+
+num = int(data[0])
+num2 = int(data[1])
+
+print(f"{num} + {num2} = {num+num2}")
+print(f"{num} * {num2} = {num*num2}")
+print(f"{num} - {num2} = {num-num2}")
