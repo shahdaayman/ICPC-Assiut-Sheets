@@ -9,7 +9,7 @@ _Last updated: June, 2025_
 |-------|------------|------------|------------|
 |1| [Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)|[Sheet #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%231)|✅|
 |2| [Contest #1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|[Contest #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%231)|✅|
-|3| [Sheet #2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|[Sheet #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%232)| 🛠️|
+|3| [Sheet #2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|[Sheet #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%232)|✅|
 |4| [Contest #2](https://codeforces.com/group/MWSDmqGsZm/contest/326907)|[Contest #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%232)|🛠️|
 |5| [Sheet #3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|[Sheet #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%233)|🛠️|
 |6| [Contest #3](https://codeforces.com/group/MWSDmqGsZm/contest/329103)|[Contest #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%233)| 🛠️|
@@ -86,13 +86,13 @@ _Last updated: June, 2025_
 |52|Q|Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/Q%20-%20Digits) |Sheet #2|
 |53|R|Sequence of Numbers and Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/R%20-%20Sequence%20of%20Numbers%20and%20Sum) |Sheet #2|
 |54|S|Sum of Consecutive Odd Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/S%20-%20Sum%20of%20Consecutive%20Odd%20Numbers) |Sheet #2|
-|55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution]() |Sheet #2|
-|56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution]() |Sheet #2|
-|57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution]() |Sheet #2|
-|58|W|Shape3| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [Solution]() |Sheet #2|
-|59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution]() |Sheet #2|
-|60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution]() |Sheet #2|
-|61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution]() |Sheet #2|
+|55|T|Shape2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/T%20-%20Shape2) |Sheet #2|
+|56|U|Some Sums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/U) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/U.%20Some%20Sums) |Sheet #2|
+|57|V|PUM| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/V) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/V%20-%20PUM) |Sheet #2|
+|58|W|Shape3| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/W%20-%20Shape3) |Sheet #2|
+|59|X|Convert To Decimal 2| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/X%20-%20Convert%20To%20Decimal%202) |Sheet #2|
+|60|Y|Easy Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/Y%20-%20Easy%20Fibonacci) |Sheet #2|
+|61|Z|Three Numbers| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%232/Z%20-%20Three%20Numbers) |Sheet #2|
 |62|A|Timon and Pumbaa| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/A) | [Solution]() |Contest #2|
 |63|B|Drawing `X'| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/B) | [Solution]() |Contest #2|
 |64|C|Finding Minimums| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/C) | [Solution]() |Contest #2|
