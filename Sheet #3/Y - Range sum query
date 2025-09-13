@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+int main() {
+    int N, t;
+    cin >> N >> t;
+    long long sum[100001];  
+    sum[0] = 0;
+
+    for (int i = 1; i <= N; i++) {
+        long long x;
+        cin >> x;
+        sum[i] = sum[i - 1] + x;
+    }
+
+    while (t--) {
+        int L, R;
+        cin >> L >> R;
+        cout << sum[R] - sum[L - 1] << endl;
+    }
+    return 0;
+}
