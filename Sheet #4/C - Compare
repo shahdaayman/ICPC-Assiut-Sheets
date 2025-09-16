@@ -1,0 +1,9 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	string x, y;
+	cin >> x >> y;
+	cout << min(x, y) << endl;
+	return 0;
+}
