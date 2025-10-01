@@ -114,7 +114,7 @@ _Last updated: July, 2025_
 |80|K|Sum Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/K%20-%20Sum%20Digits) |Sheet #3|
 |81|L|Max Subarray| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/L%20-%20Max%20Subarray) |Sheet #3|
 |82|M|Replace MinMax| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/M%20-%20Replace%20MinMax) |Sheet #3|
-|83|N|Check Code| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) | [Solution]() |Sheet #3|
+|83|N|Check Code| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/N%20-%20Check%20Code) |Sheet #3|
 |84|O|Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/O%20-%20Fibonacci) |Sheet #3|
 |85|P|Minimize Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/P%20-%20Minimize%20Number) |Sheet #3|
 |86|Q|Count Subarrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/Q%20-%20Count%20Subarrays) |Sheet #3|
