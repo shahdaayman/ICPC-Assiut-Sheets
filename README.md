@@ -11,7 +11,7 @@ _Last updated: July, 2025_
 |2| [Contest #1](https://codeforces.com/group/MWSDmqGsZm/contest/326175)|[Contest #1](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%231)|✅|
 |3| [Sheet #2](https://codeforces.com/group/MWSDmqGsZm/contest/219432)|[Sheet #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%232)|✅|
 |4| [Contest #2](https://codeforces.com/group/MWSDmqGsZm/contest/326907)|[Contest #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%232)|🛠️|
-|5| [Sheet #3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|[Sheet #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%233)|🛠️|
+|5| [Sheet #3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|[Sheet #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%233)|✅|
 |6| [Contest #3](https://codeforces.com/group/MWSDmqGsZm/contest/329103)|[Contest #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%233)| 🛠️|
 |7| [Sheet #4](https://codeforces.com/group/MWSDmqGsZm/contest/219856)|[Sheet #4](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%234)|🛠️|
 |8| [Sheet #5](https://codeforces.com/group/MWSDmqGsZm/contest/223205)|[Sheet #5](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%235)|🛠️|
@@ -101,32 +101,32 @@ _Last updated: July, 2025_
 |67|F|Break Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/F) | [Solution]() |Contest #2|
 |68|G|Construct the Sum| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/G) | [Solution]() |Contest #2|
 |69|H|Simple Mod| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/H) | [Solution]() |Contest #2|
-|70|A|Summation| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [Solution]() |Sheet #3|
+|70|A|Summation| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/A%20-%20Summation) |Sheet #3|
 |71|B|Searching| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/B%20-%20Searching) |Sheet #3|
-|72|C|Replacement| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [Solution]() |Sheet #3|
-|73|D|Positions in array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [Solution]() |Sheet #3|
-|74|E|Lowest Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) | [Solution]() |Sheet #3|
-|75|F|Reversing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) | [Solution]() |Sheet #3|
-|76|G|Palindrome Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) | [Solution]() |Sheet #3|
-|77|H|Sorting| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [Solution]() |Sheet #3|
-|78|I|Smallest Pair| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) | [Solution]() |Sheet #3|
-|79|J|Lucky Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) | [Solution]() |Sheet #3|
-|80|K|Sum Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) | [Solution]() |Sheet #3|
-|81|L|Max Subarray| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) | [Solution]() |Sheet #3|
-|82|M|Replace MinMax| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) | [Solution]() |Sheet #3|
+|72|C|Replacement| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/C%20-%20Replacement) |Sheet #3|
+|73|D|Positions in array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/D%20-%20Positions%20in%20array) |Sheet #3|
+|74|E|Lowest Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/E%20-%20Lowest%20Number) |Sheet #3|
+|75|F|Reversing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/F%20-%20Reversing) |Sheet #3|
+|76|G|Palindrome Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/G%20-%20Palindrome%20Array) |Sheet #3|
+|77|H|Sorting| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/H%20-%20Sorting) |Sheet #3|
+|78|I|Smallest Pair| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/I%20-%20Smallest%20Pair) |Sheet #3|
+|79|J|Lucky Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/J%20-%20Lucky%20Array) |Sheet #3|
+|80|K|Sum Digits| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/K%20-%20Sum%20Digits) |Sheet #3|
+|81|L|Max Subarray| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/L%20-%20Max%20Subarray) |Sheet #3|
+|82|M|Replace MinMax| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/M%20-%20Replace%20MinMax) |Sheet #3|
 |83|N|Check Code| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N) | [Solution]() |Sheet #3|
-|84|O|Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [Solution]() |Sheet #3|
-|85|P|Minimize Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) | [Solution]() |Sheet #3|
-|86|Q|Count Subarrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) | [Solution]() |Sheet #3|
-|87|R|Permutation with arrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) | [Solution]() |Sheet #3|
-|88|S|Search In Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) | [Solution]() |Sheet #3|
-|89|T|Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) | [Solution]() |Sheet #3|
-|90|U|Is B a subsequence of A ?| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) | [Solution]() |Sheet #3|
-|91|V|Frequency Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) | [Solution]() |Sheet #3|
-|92|W|Mirror Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [Solution]() |Sheet #3|
-|93|X|8 Neighbors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) | [Solution]() |Sheet #3|
-|94|Y|Range sum query| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [Solution]() |Sheet #3|
-|95|Z|Binary Search| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [Solution]() |Sheet #3|
+|84|O|Fibonacci| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/O%20-%20Fibonacci) |Sheet #3|
+|85|P|Minimize Number| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/P%20-%20Minimize%20Number) |Sheet #3|
+|86|Q|Count Subarrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/Q%20-%20Count%20Subarrays) |Sheet #3|
+|87|R|Permutation with arrays| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/R%20-%20Permutation%20with%20arrays) |Sheet #3|
+|88|S|Search In Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/S%20-%20Search%20In%20Matrix) |Sheet #3|
+|89|T|Matrix| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/T%20-%20Matrix) |Sheet #3|
+|90|U|Is B a subsequence of A ?| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/U%20-%20Is%20B%20a%20subsequence%20of%20A%20%3F) |Sheet #3|
+|91|V|Frequency Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/V%20-%20Frequency%20Array) |Sheet #3|
+|92|W|Mirror Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/W%20-%20Mirror%20Array) |Sheet #3|
+|93|X|8 Neighbors| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/X%20-%208%20Neighbors) |Sheet #3|
+|94|Y|Range sum query| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/Y%20-%20Range%20sum%20query) |Sheet #3|
+|95|Z|Binary Search| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%233/Z%20-%20Binary%20Search) |Sheet #3|
 |96|A|Square or rectangle| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A) | [Solution]() |Contest #3|
 |97|B|Reversing| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/B) | [Solution]() |Contest #3|
 |98|C|Choose Elements| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/C) | [Solution]() |Contest #3|
