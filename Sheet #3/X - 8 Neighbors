@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+int main() {
+    int row, col;
+    cin >> row >> col;
+    char arr[100][100] = {};
+    for (int i = 0;i < row;i++) {
+        for (int j = 0;j < col;j++) {
+            cin >> arr[i][j];
+        }
+    }
+    int x, y;
+    cin >> x >> y;
+    x--;
+    y--;
+    int row_check[8] = { x - 1,x + 1,x,x,x - 1,x - 1,x + 1,x + 1 };
+    int col_check[8] = { y,y,y + 1,y - 1,y + 1,y - 1,y + 1,y - 1 };
+    for (int i = 0;i < 8;i++) {
+        if (row_check[i] >= 0 && row_check[i] < row && col_check[i] >= 0 && col_check[i] < col) {
+            if (arr[row_check[i]][col_check[i]] !='x') {
+                cout << "no" << endl;
+                return 0;
+            }
+        }
+    }
+    cout << "yes" << endl;
+    return 0;
+}
+
+
+//Notes:
+//     012
+//   0:XXX
+//   1:XXX
+//   2:XXX
+
+//if x=1,y=1:
+//UP: (x-1,y)
+//Down: (x+1,y)
+//Right: (x,y+1)
+//Left: (x,y-1)
+//top-right: (x-1,y+1)
+//top-left: (x-1,y-1)
+//bottom-right: (x+1,y+1)
+//bottom-left: (x+1,y-1)
