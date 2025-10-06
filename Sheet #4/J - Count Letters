@@ -1,0 +1,20 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main() {
+	string s;
+	int cnt = 0;
+	cin >> s;
+	for (char i = 'a';i <= 'z';i++) {
+		cnt = 0;
+		for (int j = 0;j < s.size();j++) {
+			if (s[j] == i) {
+				cnt++;
+			}
+		}
+		if (cnt > 0) {
+			cout << i << " : " << cnt << endl;
+		}
+	} 
+	return 0;
+}
