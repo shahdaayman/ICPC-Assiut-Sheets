@@ -1,0 +1,64 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+using namespace std;
+int main() {
+    int size, q;
+    cin >> size >> q;
+    string s;
+    cin >> s;
+
+    while (q--) {
+        string queries;
+        cin >> queries;
+
+        if (queries == "pop_back") {
+            s.pop_back();
+        }
+        else if (queries == "front") {
+            cout << s.front() << endl;
+        }
+        else if (queries == "back") {
+            cout << s.back() << endl;
+        }
+        else if (queries == "sort") {
+            int l, r;
+            cin >> l >> r;
+            l--;
+            r--;
+            int minimum = min(l, r);
+            int maximum = max(l, r);
+            sort(s.begin() + minimum, s.begin() + maximum + 1);
+        }
+        else if (queries == "reverse") {
+            int l, r;
+            cin >> l >> r;
+            l--;
+            r--;
+            int minimum = min(l, r);
+            int maximum = max(l, r);
+            reverse(s.begin() + minimum, s.begin() + maximum + 1);
+        }
+        else if (queries == "push_back") {
+            char x;
+            cin >> x;
+            s.push_back(x);
+        }
+        else if (queries == "substr") {
+            int l, r;
+            cin >> l >> r;
+            l--;
+            r--;
+            int minimum = min(l, r);
+            int maximum = max(l, r);
+            cout << s.substr(minimum, maximum - minimum + 1) << endl;
+        }
+        else if (queries == "print") {
+            int pos;
+            cin >> pos;
+            pos--;
+            cout << s[pos] << endl;
+        }
+    }
+    return 0;
+}
