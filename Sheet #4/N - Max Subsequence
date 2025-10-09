@@ -1,0 +1,19 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main() {
+	int size;
+	cin >> size;
+	string s;
+	cin >> s;
+	string sub;
+	sub += s[0];
+	int cnt = 0;
+	for (int i = 1;i < s.size();i++) {
+		if (s[i] != sub.back()) {
+			sub += s[i];
+		}
+	}
+	cout << sub.size();
+	return 0;
+}
