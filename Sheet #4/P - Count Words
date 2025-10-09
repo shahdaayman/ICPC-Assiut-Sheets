@@ -1,0 +1,25 @@
+#include <iostream>
+#include <string>
+#include <cctype>
+using namespace std;
+int main() {
+    string s;
+    getline(cin, s);
+    int cnt = 0;
+    bool inWord = false;
+    for (int i = 0; i < s.size(); i++) {
+        char c = s[i]; 
+
+        if (isalpha(c)) { 
+            if (!inWord) {
+                cnt++;
+                inWord = true;
+            }
+        }
+        else {
+            inWord = false; 
+        }
+    }
+    cout << cnt << endl;
+    return 0;
+}
