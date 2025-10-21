@@ -1,0 +1,38 @@
+#include<iostream>
+#include<string>
+using namespace std;
+int main() {
+	int n;
+	string s;
+	long long total = 0;
+	cin >> n;
+	cin >> s;
+	for (int i = 0;i < n;i++) {
+		 if (s[i] == 'V') {
+			total += 5;
+		}
+		else if (s[i] == 'W') {
+			total += 2;
+		}
+		else if (s[i] == 'X') {
+			i++;
+		}
+		else if (s[i] == 'Y') {
+			i++;
+			s.push_back(s[i]);
+			n++;
+		}
+		else if (s[i] == 'Z') {
+			if (s[i+1] == 'V') {
+				total /= 5;
+				i++;
+			}
+			else if (s[i+1] == 'W') {
+				total /= 2;
+				i++;
+			}
+		}
+	}
+	cout << total << endl;
+	return 0;
+}
