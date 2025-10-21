@@ -1,0 +1,47 @@
+#include <iostream>
+#include <string>
+using namespace std;
+int main() {
+    string s;
+    cin >> s;
+    int cnt_L = 0, cnt_R = 0;
+    string current;
+    string totalStringsBalanced[501]; 
+    int counter = 0;
+
+    for (int i = 0; i < s.size(); i++) {
+        if (s[i] == 'L') {
+            cnt_L++;
+            current += s[i];
+        }
+        else if (s[i] == 'R') {
+            cnt_R++;
+            current += s[i];
+        }
+
+        if (cnt_L == cnt_R && cnt_L != 0) {
+            totalStringsBalanced[counter] = current;
+            counter++;
+            current = "";
+            cnt_L = 0;
+            cnt_R = 0;
+        }
+    }
+    cout << counter << endl;  
+    for (int i = 0; i < counter; i++) {
+        cout << totalStringsBalanced[i] << endl;
+    }
+
+    return 0;
+}
+
+
+// Note:
+// The input string 's' can have at most 1000 characters.
+// Each balanced substring has at least 2 characters
+// because no.of L must be equal to the no.of R
+// so, totalStringsBalanced maximum will be 500 -> 1000 / 2 = 500.
+
+//Example:
+// string s= "LRLRLR";  -> s.size()= 6
+// string totalStringsBalanced={"LR","LR","LR"};  -> totalStringsBalanced.size()=3
