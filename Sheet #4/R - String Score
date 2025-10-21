@@ -32,6 +32,64 @@ int main() {
 				i++;
 			}
 		}
+
+
+
+
+
+
+//Notes:
+//We skipped this operation on the above code:
+//In case the string ends with X or Y or Z ignore their operations.
+  
+//why?
+//their operations are ignored automatically.
+
+//Tracing:
+
+//Example 1:
+//string s="YZX";
+//in our code:
+//if (s[i] == 'X') {
+//	i++;
+//}
+// so, already our code is finished so, it won't change anything.
+
+
+// Example 2:
+//             012
+// string s = "ZXY";
+// In our code:
+// if (s[i] == 'Y') {
+//     i++;               // i = 3
+//     s.push_back(s[i]); // tries to access s[3] (doesn't exist)
+//     n++;               // n = 4 → so next loop condition: i < n → 3 < 4
+// }
+//
+// We incremented i, so we're trying to push back a character
+// from an index that doesn't exist (s[3]) → this does nothing valid.
+//
+// We also incremented n, so the loop will try to run again,
+// but i is already out of range (i = 3, s.size() = 3),
+// so no 'if' condition will execute anymore and the loop ends safely.
+
+
+//Example 3:
+//string s="XYZ";
+//in our code:
+//if (s[i] == 'Z') {
+//	if (s[i + 1] == 'V') {
+//		total /= 5;
+//		i++;
+//	}
+//	else if (s[i + 1] == 'W') {
+//		total /= 2;
+//		i++;
+//	}
+//		}
+
+//here we're trying to access s[i+1] but already our string is finished
+//so, it won't enter the if condition in the first place.
 	}
 	cout << total << endl;
 	return 0;
