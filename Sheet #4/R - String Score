@@ -32,6 +32,10 @@ int main() {
 				i++;
 			}
 		}
+	}
+	cout << total << endl;
+	return 0;
+}
 
 
 
@@ -90,7 +94,3 @@ int main() {
 
 //here we're trying to access s[i+1] but already our string is finished
 //so, it won't enter the if condition in the first place.
-	}
-	cout << total << endl;
-	return 0;
-}
