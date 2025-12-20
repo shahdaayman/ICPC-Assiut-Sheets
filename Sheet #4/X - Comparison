@@ -1,0 +1,18 @@
+#include <iostream>
+#include<algorithm>
+using namespace std;
+int main() {
+	string s;
+	cin >> s;
+	string minimum=s;
+	for (int i = 0;i < s.size()-1;i++) {
+		string w1 = s.substr(0, i + 1);
+		string w2 = s.substr(i + 1, s.size() - i + 1);
+		sort(w1.begin(), w1.end());
+		sort(w2.begin(), w2.end());
+		string w1w2 = w1 + w2;
+	    minimum = min(minimum, w1w2);
+	}
+	cout << minimum << endl;
+	return 0;
+}
