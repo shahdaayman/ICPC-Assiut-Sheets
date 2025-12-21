@@ -1,0 +1,118 @@
+#include<iostream>
+#include<algorithm>
+using namespace std;
+int main()
+{
+    string s;
+    long long cost[26];
+    cin >> s;
+    for (int i = 0; i < 26; i++)
+    {
+        cin >> cost[i];
+    }
+    long long question = 0;
+
+    for (int i = 0; i < s.size(); i++)
+    {
+        question = 0;
+        if (s[i] == '?')
+        {
+
+            for (int j = i; j < s.size(); j++)
+            {
+                if (s[j] == '?')
+                {
+                    question++;
+                }
+                else
+                {
+                    break;
+                }
+            }
+
+            if (question == s.size())
+            {
+                cout << 0 << endl;
+                for (int j = 0; j < s.size(); j++)
+                {
+                    cout << "a";
+                }
+                return 0;
+            }
+            else
+            {
+                if (i == 0)
+                {
+                    long long min = INT_MAX, index;
+                    for (int z = 0; z < (s[question] - 97) + 1; z++)
+                    {
+                        long long current = abs(cost[s[question] - 97] - cost[z]);
+                        if (min > current)
+                        {
+                            min = current;
+                            index = z;
+                        }
+                    }
+                    char replace = index + 97;
+                    for (int j = 0; j < question; j++)
+                    {
+                        s[j] = replace;
+                    }
+
+                    i += question;
+                }
+                else if (i + question == s.size())
+                {
+                    long long min = INT_MAX, index;
+                    for (int z = 0; z < (s[i - 1] - 97) + 1; z++)
+                    {
+                        long long current = abs(cost[s[i - 1] - 97] - cost[z]);
+                        if (min > current)
+                        {
+                            min = current;
+                            index = z;
+                        }
+                    }
+                    char replace = index + 97;
+
+                    for (int j = i; j < question + i; j++)
+                    {
+                        s[j] = replace;
+                    }
+
+                    break;
+                }
+                else
+                {
+                    long long min = INT_MAX, index;
+                    for (int x = 0; x < 26; x++)
+                    {
+                        long long current = abs(cost[s[i - 1] - 97] - cost[x]) + abs(cost[x] - cost[s[i + question] - 97]);
+                        if (min > current)
+                        {
+                            min = current;
+                            index = x;
+                        }
+                    }
+                    char replace = index + 97;
+
+                    for (int j = i; j < i + question; j++)
+                    {
+                        s[j] = replace;
+                    }
+
+                    i += question;
+                }
+            }
+        }
+    }
+
+    long long final = 0;
+    for (int i = 0; i < s.size() - 1; i++)
+    {
+        final += abs(cost[s[i] - 97] - cost[s[i + 1] - 97]);
+    }
+
+    cout << final << endl;
+    cout << s << endl;
+}
