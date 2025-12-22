@@ -13,7 +13,7 @@ _Last updated: July, 2025_
 |4| [Contest #2](https://codeforces.com/group/MWSDmqGsZm/contest/326907)|[Contest #2](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%232)|🛠️|
 |5| [Sheet #3](https://codeforces.com/group/MWSDmqGsZm/contest/219774)|[Sheet #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%233)|✅|
 |6| [Contest #3](https://codeforces.com/group/MWSDmqGsZm/contest/329103)|[Contest #3](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Contest%20%233)| 🛠️|
-|7| [Sheet #4](https://codeforces.com/group/MWSDmqGsZm/contest/219856)|[Sheet #4](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%234)|🛠️|
+|7| [Sheet #4](https://codeforces.com/group/MWSDmqGsZm/contest/219856)|[Sheet #4](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%234)|✅|
 |8| [Sheet #5](https://codeforces.com/group/MWSDmqGsZm/contest/223205)|[Sheet #5](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%235)|🛠️|
 |9| [Sheet #6](https://codeforces.com/group/MWSDmqGsZm/contest/223338)|[Sheet #6](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%236)|🛠️|
 |10| [Sheet #7](https://codeforces.com/group/MWSDmqGsZm/contest/223339)|[Sheet #7](https://github.com/shahdaayman/ICPC-Assiut-Sheets/tree/main/Sheet%20%237)|🛠️|
@@ -134,32 +134,32 @@ _Last updated: July, 2025_
 |100|E|Alternating Array| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/E) | [Solution]() |Contest #3|
 |101|F|Front - End| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/F) | [Solution]() |Contest #3|
 |102|G|Even Hate Odd| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G) | [Solution]() |Contest #3|
-|103|A|Create A New String| [Question]() | [Solution]() |Sheet #4|
-|104|B|Let's use Getline| [Question]() | [Solution]() |Sheet #4|
-|105|C|Compare| [Question]() | [Solution]() |Sheet #4|
-|106|D|Strings| [Question]() | [Solution]() |Sheet #4|
-|107|E|Count| [Question]() | [Solution]() |Sheet #4|
-|108|F|Way Too Long Words| [Question]() | [Solution]() |Sheet #4|
-|109|G|Conversion| [Question]() | [Solution]() |Sheet #4|
-|110|H|Good or Bad| [Question]() | [Solution]() |Sheet #4|
-|111|I|Palindrome| [Question]() | [Solution]() |Sheet #4|
-|112|J|Count Letters| [Question]() | [Solution]() |Sheet #4|
-|113|K|I Love strings| [Question]() | [Solution]() |Sheet #4|
-|114|L|String Functions| [Question]() | [Solution]() |Sheet #4|
-|115|M|Subsequence String| [Question]() | [Solution]() |Sheet #4|
-|116|N|Max Subsequence| [Question]() | [Solution]() |Sheet #4|
-|117|O|Sort String| [Question]() | [Solution]() |Sheet #4|
-|118|P|Count Words| [Question]() | [Solution]() |Sheet #4|
-|119|Q|Reverse Words| [Question]() | [Solution]() |Sheet #4|
-|120|R|String Score| [Question]() | [Solution]() |Sheet #4|
-|121|S|Max Split| [Question]() | [Solution]() |Sheet #4|
-|122|T|URL| [Question]() | [Solution]() |Sheet #4|
-|123|U|New Words| [Question]() | [Solution]() |Sheet #4|
-|124|V|Replace Word| [Question]() | [Solution]() |Sheet #4|
-|125|W|Encrypt & Decrypt Message| [Question]() | [Solution]() |Sheet #4|
-|126|X|Comparison| [Question]() | [Solution]() |Sheet #4|
-|127|Y|Min Cost String| [Question]() | [Solution]() |Sheet #4|
-|128|Z|Clean Code| [Question]() | [Solution]() |Sheet #4|
+|103|A|Create A New String| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/A) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/A%20-%20Create%20A%20New%20String) |Sheet #4|
+|104|B|Let's use Getline| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/B) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/B%20-%20Let's%20use%20Getline) |Sheet #4|
+|105|C|Compare| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/C) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/C%20-%20Compare) |Sheet #4|
+|106|D|Strings| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/D) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/D%20-%20Strings) |Sheet #4|
+|107|E|Count| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/E) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/E%20-%20Count) |Sheet #4|
+|108|F|Way Too Long Words| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/F) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/F%20-%20Way%20Too%20Long%20Words) |Sheet #4|
+|109|G|Conversion| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/G) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/G%20-%20Conversion) |Sheet #4|
+|110|H|Good or Bad| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/H) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/H%20-%20Good%20or%20Bad) |Sheet #4|
+|111|I|Palindrome| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/I) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/I%20-%20Palindrome) |Sheet #4|
+|112|J|Count Letters| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/J) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/J%20-%20Count%20Letters) |Sheet #4|
+|113|K|I Love strings| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/K) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/K%20-%20I%20Love%20strings) |Sheet #4|
+|114|L|String Functions| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/L) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/L%20-%20String%20Functions) |Sheet #4|
+|115|M|Subsequence String| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/M) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/M%20-%20Subsequence%20String) |Sheet #4|
+|116|N|Max Subsequence| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/N) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/N%20-%20Max%20Subsequence) |Sheet #4|
+|117|O|Sort String| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/O) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/O%20-%20Sort%20String) |Sheet #4|
+|118|P|Count Words| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/P) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/P%20-%20Count%20Words) |Sheet #4|
+|119|Q|Reverse Words| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Q) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/Q%20-%20Reverse%20Words) |Sheet #4|
+|120|R|String Score| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/R) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/R%20-%20String%20Score) |Sheet #4|
+|121|S|Max Split| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/S) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/S%20-%20Max%20Split) |Sheet #4|
+|122|T|URL| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/T) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/T%20-%20URL) |Sheet #4|
+|123|U|New Words| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/U) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/U%20-%20New%20Words) |Sheet #4|
+|124|V|Replace Word| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/V) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/V%20-%20Replace%20Word) |Sheet #4|
+|125|W|Encrypt & Decrypt Message| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/W) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/W%20-%20Encrypt%20%26%20Decrypt%20Message) |Sheet #4|
+|126|X|Comparison| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/X) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/X%20-%20Comparison) |Sheet #4|
+|127|Y|Min Cost String| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Y) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/Y%20-%20Min%20Cost%20String) |Sheet #4|
+|128|Z|Clean Code| [Question](https://codeforces.com/group/MWSDmqGsZm/contest/219856/problem/Z) | [Solution](https://github.com/shahdaayman/ICPC-Assiut-Sheets/blob/main/Sheet%20%234/Z%20-%20Clean%20Code) |Sheet #4|
 |129|A|Add| [Question]() | [Solution]() |Sheet #5|
 |130|B|Print| [Question]() | [Solution]() |Sheet #5|
 |131|C|Wonderful Number| [Question]() | [Solution]() |Sheet #5|
