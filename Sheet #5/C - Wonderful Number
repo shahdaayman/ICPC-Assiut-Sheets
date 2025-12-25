@@ -1,0 +1,35 @@
+#include<iostream>
+#include<string>
+#include<algorithm>
+using namespace std;
+bool isOdd(int n) {
+	return n % 2;
+}
+
+bool isPalindrome(int n) {
+	string s;
+	while (n != 0) {
+		s += (n % 2)+'0';
+		n /= 2;
+	}
+	string temp = s;
+	reverse(s.begin(), s.end());
+	if (s == temp) {
+		return true;
+	}
+	return false;
+}
+
+int main() {
+	int n;
+	cin >> n;
+	bool answer1= isOdd(n);
+	bool answer2= isPalindrome(n);
+	if (answer1 && answer2) {
+		cout << "YES" << endl;
+	}
+	else {
+		cout << "NO" << endl;
+	}
+	return 0;
+}
